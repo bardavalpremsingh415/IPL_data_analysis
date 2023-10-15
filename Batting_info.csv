@@ -1,4 +1,4 @@
-,BATTING, ,R,B,M,4s,6s,SR
+,BATTING,Dismissal,R,B,M,4s,6s,SR
 0,Devon Conway,b Mohammed Shami,1,6,-,0,0,16.66
 1,Ruturaj Gaikwad,c Shubman Gill b Joseph,92,50,-,4,9,184.00
 2,Moeen Ali,c †Saha b Rashid Khan,23,17,-,4,1,135.29
@@ -6,584 +6,1177 @@
 4,Ambati Rayudu,b Little,12,12,-,0,1,100.00
 5,Shivam Dube,c Rashid Khan b Mohammed Shami,19,18,-,0,1,105.55
 6,Ravindra Jadeja,c Shankar b Joseph,1,2,-,0,0,50.00
-7,MS Dhoni (c)†,not out,14,7,-,1,1,200.00
+7,MS Dhoni ,not out,14,7,-,1,1,200.00
 8,Mitchell Santner,not out,1,3,-,0,0,33.33
-9,Prabhsimran Singh,c †Rahmanullah Gurbaz b Southee,23,12,10,2,2,191.66
-10,Shikhar Dhawan (c),b Varun,40,29,75,6,0,137.93
-11,Bhanuka Rajapaksa,c Singh b Yadav,50,32,47,5,2,156.25
-12,Jitesh Sharma †,c Yadav b Southee,21,11,13,1,2,190.90
-13,Sikandar Raza,c Rana b Narine,16,13,22,1,1,123.07
-14,Sam Curran,not out,26,17,27,0,2,152.94
-15,M Shahrukh Khan,not out,11,7,11,2,0,157.14
-16,KL Rahul (c),c Patel b Sakariya,8,12,21,0,1,66.66
-17,Kyle Mayers,b Patel,73,38,53,2,7,192.10
-18,Deepak Hooda,c Warner b Kuldeep Yadav,17,18,31,0,0,94.44
-19,Krunal Pandya,not out,15,13,51,0,1,115.38
-20,Marcus Stoinis,c †Khan b Ahmed,12,10,13,0,1,120.00
-21,Nicholas Pooran †,c Shaw b Ahmed,36,21,24,2,3,171.42
-22,Ayush Badoni,c †Khan b Sakariya,18,7,10,1,2,257.14
-23,Krishnappa Gowtham,not out,6,1,2,0,1,600.00
-24,Yashasvi Jaiswal,c Agarwal b Fazalhaq Farooqi,54,37,63,9,0,145.94
-25,Jos Buttler,b Fazalhaq Farooqi,54,22,32,7,3,245.45
-26,Sanju Samson (c)†,c Abhishek Sharma b Natarajan,55,32,66,3,4,171.87
-27,Devdutt Padikkal,b Umran Malik,2,5,10,0,0,40.00
-28,Riyan Parag,c Fazalhaq Farooqi b Natarajan,7,6,12,1,0,116.66
-29,Shimron Hetmyer,not out,22,16,21,1,1,137.50
-30,Ravichandran Ashwin,not out,1,2,9,0,0,50.00
-31,Rohit Sharma (c),c †Karthik b Akash Deep,1,10,30,0,0,10.00
-32,Ishan Kishan †,c Patel b Mohammed Siraj,10,13,13,2,0,76.92
-33,Cameron Green,b Topley,5,4,6,1,0,125.00
-34,Suryakumar Yadav,c Shahbaz Ahmed b Bracewell,15,16,35,1,0,93.75
-35,Tilak Varma,not out,84,46,85,9,4,182.60
-36,Nehal Wadhera,c Kohli b Sharma,21,13,25,1,2,161.53
-37,Tim David,b Sharma,4,7,11,0,0,57.14
-38,Hrithik Shokeen,c du Plessis b Patel,5,3,12,1,0,166.66
-39,Arshad Khan,not out,15,9,19,0,1,166.66
-40,Ruturaj Gaikwad,c Wood b Ravi Bishnoi,57,31,55,3,4,183.87
-41,Devon Conway,c Pandya b Wood,47,29,62,5,2,162.06
-42,Shivam Dube,c Wood b Ravi Bishnoi,27,16,22,1,3,168.75
-43,Moeen Ali,st †Pooran b Ravi Bishnoi,19,13,25,3,0,146.15
-44,Ben Stokes,c Yash Thakur b Avesh Khan,8,8,16,1,0,100.00
-45,Ambati Rayudu,not out,27,14,26,2,2,192.85
-46,Ravindra Jadeja,c Ravi Bishnoi b Wood,3,6,13,0,0,50.00
-47,MS Dhoni (c)†,c Ravi Bishnoi b Wood,12,3,6,0,2,400.00
-48,Mitchell Santner,not out,1,1,2,0,0,100.00
-49,David Warner (c),b Joseph,37,32,48,7,0,115.62
-50,Prithvi Shaw,c Joseph b Mohammed Shami,7,5,17,1,0,140.00
-51,Mitchell Marsh,b Mohammed Shami,4,4,10,1,0,100.00
-52,Sarfaraz Khan,c Little b Rashid Khan,30,34,66,2,0,88.23
-53,Rilee Rossouw,c Tewatia b Joseph,0,1,4,0,0,0.00
-54,Abishek Porel †,b Rashid Khan,20,11,25,0,2,181.81
-55,Axar Patel,c Miller b Mohammed Shami,36,22,33,2,3,163.63
-56,Aman Hakim Khan,c Pandya b Rashid Khan,8,8,10,0,1,100.00
-57,Kuldeep Yadav,not out,1,1,7,0,0,100.00
-58,Anrich Nortje,not out,4,2,1,1,0,200.00
-59,Prabhsimran Singh,c Buttler b Holder,60,34,49,7,3,176.47
-60,Shikhar Dhawan (c),not out,86,56,113,9,3,153.57
-61,Bhanuka Rajapaksa,retired hurt,1,1,3,0,0,100.00
-62,Jitesh Sharma †,c Parag b Chahal,27,16,31,2,1,168.75
-63,Sikandar Raza,b Ashwin,1,2,2,0,0,50.00
-64,M Shahrukh Khan,c Buttler b Holder,11,10,23,1,0,110.00
-65,Sam Curran,not out,1,2,3,0,0,50.00
-66,Rahmanullah Gurbaz †,c Akash Deep b Sharma,57,44,58,6,3,129.54
-67,Venkatesh Iyer,b Willey,3,7,18,0,0,42.85
-68,Mandeep Singh,b Willey,0,1,2,0,0,0.00
-69,Nitish Rana (c),c †Karthik b Bracewell,1,5,17,0,0,20.00
-70,Rinku Singh,c †Karthik b Patel,46,33,64,2,3,139.39
-71,Andre Russell,c Kohli b Sharma,0,1,2,0,0,0.00
-72,Shardul Thakur,c Maxwell b Mohammed Siraj,68,29,45,9,3,234.48
-73,Sunil Narine,not out,0,1,6,0,0,0.00
-74,Umesh Yadav,not out,6,2,2,1,0,300.00
-75,Anmolpreet Singh †,lbw b Pandya,31,26,38,3,1,119.23
-76,Mayank Agarwal,c Stoinis b Pandya,8,7,14,1,0,114.28
-77,Rahul Tripathi,c Mishra b Yash Thakur,34,41,65,4,0,82.92
-78,Aiden Markram (c),b Pandya,0,1,2,0,0,0.00
-79,Harry Brook,st †Pooran b Ravi Bishnoi,3,4,5,0,0,75.00
-80,Washington Sundar,c Hooda b Mishra,16,28,40,0,0,57.14
-81,Abdul Samad,not out,21,10,11,1,2,210.00
-82,Adil Rashid,c Hooda b Mishra,4,3,3,1,0,133.33
-83,Umran Malik,run out (Hooda/Unadkat),0,0,1,0,0,-
-84,Bhuvneshwar Kumar,not out,0,0,4,0,0,-
-85,Yashasvi Jaiswal,c & b Mukesh Kumar,60,31,47,11,1,193.54
-86,Jos Buttler,c & b Mukesh Kumar,79,51,94,11,1,154.90
-87,Sanju Samson (c)†,c Nortje b Kuldeep Yadav,0,4,7,0,0,0.00
-88,Riyan Parag,b Powell,7,11,16,0,0,63.63
-89,Shimron Hetmyer,not out,39,21,32,1,4,185.71
-90,Dhruv Jurel,not out,8,3,7,0,1,266.66
-91,Rohit Sharma (c),b Deshpande,21,13,22,3,1,161.53
-92,Ishan Kishan †,c Pretorius b Jadeja,32,21,36,5,0,152.38
-93,Cameron Green,c & b Jadeja,12,11,23,1,0,109.09
-94,Suryakumar Yadav,c †Dhoni b Santner,1,2,6,0,0,50.00
-95,Tilak Varma,lbw b Jadeja,22,18,26,2,1,122.22
-96,Arshad Khan,lbw b Santner,2,4,4,0,0,50.00
-97,Tim David,c Rahane b Deshpande,31,22,35,1,2,140.90
-98,Tristan Stubbs,c Gaikwad b Magala,5,10,13,0,0,50.00
-99,Hrithik Shokeen,not out,18,13,20,3,0,138.46
-100,Piyush Chawla,not out,5,6,15,0,0,83.33
-101,Wriddhiman Saha †,c Jagadeesan b Narine,17,17,24,3,0,100.00
-102,Shubman Gill,c Yadav b Narine,39,31,55,5,0,125.80
-103,Sai Sudharsan,c sub (AS Roy) b Narine,53,38,64,3,2,139.47
-104,Abhinav Manohar,b Suyash Sharma,14,8,13,3,0,175.00
-105,Vijay Shankar,not out,63,24,33,4,5,262.50
-106,David Miller,not out,2,3,13,0,0,66.66
-107,Prabhsimran Singh,lbw b Kumar,0,1,2,0,0,0.00
-108,Shikhar Dhawan (c),not out,99,66,105,12,5,150.00
-109,Matthew Short,lbw b Jansen,1,3,9,0,0,33.33
-110,Jitesh Sharma †,c Markram b Jansen,4,9,13,1,0,44.44
-111,Sam Curran,c Kumar b Markande,22,15,25,3,1,146.66
-112,Sikandar Raza,c Agarwal b Umran Malik,5,6,5,0,0,83.33
-113,M Shahrukh Khan,lbw b Markande,4,3,7,1,0,133.33
-114,Harpreet Brar,b Umran Malik,1,2,5,0,0,50.00
-115,Rahul Chahar,lbw b Markande,0,8,10,0,0,0.00
-116,Nathan Ellis,b Markande,0,5,10,0,0,0.00
-117,Mohit Rathee,not out,1,2,25,0,0,50.00
-118,Virat Kohli,c Stoinis b Mishra,61,44,50,4,4,138.63
-119,Faf du Plessis (c),not out,79,46,104,5,5,171.73
-120,Glenn Maxwell,b Wood,59,29,54,3,6,203.44
-121,Dinesh Karthik †,not out,1,1,2,0,0,100.00
-122,David Warner (c),c Meredith b Behrendorff,51,47,94,6,0,108.51
-123,Prithvi Shaw,c Green b Shokeen,15,10,17,3,0,150.00
-124,Manish Pandey,c Behrendorff b Chawla,26,18,24,5,0,144.44
-125,Yash Dhull,c Wadhera b Meredith,2,4,7,0,0,50.00
-126,Rovman Powell,lbw b Chawla,4,4,6,1,0,100.00
-127,Lalit Yadav,b Chawla,2,4,10,0,0,50.00
-128,Axar Patel,c Arshad Khan b Behrendorff,54,25,29,4,5,216.00
-129,Abishek Porel †,c Green b Behrendorff,1,3,8,0,0,33.33
-130,Kuldeep Yadav,run out (Wadhera),0,1,2,0,0,0.00
-131,Anrich Nortje,b Meredith,5,3,7,1,0,166.66
-132,Mustafizur Rahman,not out,1,1,5,0,0,100.00
-133,Yashasvi Jaiswal,c Dube b Deshpande,10,8,9,2,0,125.00
-134,Jos Buttler,b Ali,52,36,79,1,3,144.44
-135,Devdutt Padikkal,c Conway b Jadeja,38,26,33,5,0,146.15
-136,Sanju Samson (c)†,b Jadeja,0,2,2,0,0,0.00
-137,Ravichandran Ashwin,c Magala b Akash Singh,30,22,29,1,2,136.36
-138,Shimron Hetmyer,not out,30,18,28,2,2,166.66
-139,Dhruv Jurel,c Dube b Akash Singh,4,6,15,0,0,66.66
-140,Jason Holder,c Conway b Deshpande,0,1,6,0,0,0.00
-141,Adam Zampa,run out (Theekshana/†Dhoni),1,1,2,0,0,100.00
-142,Prabhsimran Singh,c Rashid Khan b Mohammed Shami,0,2,3,0,0,0.00
-143,Shikhar Dhawan (c),c Joseph b Little,8,8,20,2,0,100.00
-144,Matthew Short,b Rashid Khan,36,24,38,6,1,150.00
-145,Bhanuka Rajapaksa,c Shubman Gill b Joseph,20,26,73,1,0,76.92
-146,Jitesh Sharma †,c †Saha b Sharma,25,23,29,5,0,108.69
-147,Sam Curran,c Shubman Gill b Sharma,22,22,33,1,1,100.00
-148,M Shahrukh Khan,run out (Miller/†Saha),22,9,19,1,2,244.44
-149,Harpreet Brar,not out,8,5,12,0,1,160.00
-150,Rishi Dhawan,run out (†Saha),1,1,4,0,0,100.00
-151,Harry Brook,not out,100,55,99,12,3,181.81
-152,Mayank Agarwal,c Varun b Russell,9,13,22,0,0,69.23
-153,Rahul Tripathi,c †Rahmanullah Gurbaz b Russell,9,4,6,2,0,225.00
-154,Aiden Markram (c),c Russell b Varun,50,26,32,2,5,192.30
-155,Abhishek Sharma,c Thakur b Russell,32,17,28,3,2,188.23
-156,Heinrich Klaasen †,not out,16,6,13,2,1,266.66
-157,Virat Kohli,c Dhull b Lalit Yadav,50,34,46,6,1,147.05
-158,Faf du Plessis (c),c Aman Hakim Khan b Marsh,22,16,21,3,1,137.50
-159,Mahipal Lomror,c †Abishek Porel b Marsh,26,18,38,0,2,144.44
-160,Glenn Maxwell,c Warner b Kuldeep Yadav,24,14,25,0,3,171.42
-161,Harshal Patel,c †Abishek Porel b Patel,6,4,9,0,1,150.00
-162,Shahbaz Ahmed,not out,20,12,31,3,0,166.66
-163,Dinesh Karthik †,c Lalit Yadav b Kuldeep Yadav,0,1,2,0,0,0.00
-164,Anuj Rawat,not out,15,22,26,1,0,68.18
-165,KL Rahul (c),c sub (NT Ellis) b Arshdeep Singh,74,56,101,8,1,132.14
-166,Kyle Mayers,c Harpreet Singh b Harpreet Brar,29,23,34,1,3,126.08
-167,Deepak Hooda,lbw b Sikandar Raza,2,3,7,0,0,66.66
-168,Krunal Pandya,c Shahrukh Khan b Rabada,18,17,30,2,0,105.88
-169,Nicholas Pooran †,c Shahrukh Khan b Rabada,0,1,5,0,0,0.00
-170,Marcus Stoinis,c †Sharma b Curran,15,11,22,0,2,136.36
-171,Ayush Badoni,not out,5,6,17,0,0,83.33
-172,Krishnappa Gowtham,c Sikandar Raza b Curran,1,2,7,0,0,50.00
-173,Yudhvir Singh,c Shahrukh Khan b Curran,0,1,3,0,0,0.00
-174,Ravi Bishnoi,not out,3,1,3,0,0,300.00
-175,Rahmanullah Gurbaz †,c Jansen b Chawla,8,12,39,0,0,66.66
-176,Narayan Jagadeesan,c Shokeen b Green,0,5,12,0,0,0.00
-177,Venkatesh Iyer,c Jansen b Meredith,104,51,82,6,9,203.92
-178,Nitish Rana (c),c sub (Ramandeep Singh) b Shokeen,5,10,13,0,0,50.00
-179,Shardul Thakur,c Tilak Varma b Shokeen,13,11,23,1,0,118.18
-180,Rinku Singh,c Wadhera b Jansen,18,18,32,2,0,100.00
-181,Andre Russell,not out,21,11,18,3,1,190.90
-182,Sunil Narine,not out,2,2,9,0,0,100.00
-183,Wriddhiman Saha †,c & b Boult,4,3,4,1,0,133.33
-184,Shubman Gill,c Buttler b Sandeep Sharma,45,34,70,4,1,132.35
-185,Sai Sudharsan,run out (Buttler/†Samson),20,19,23,2,0,105.26
-186,Hardik Pandya (c),c Jaiswal b Chahal,28,19,22,3,1,147.36
-187,David Miller,c Hetmyer b Sandeep Sharma,46,30,43,3,2,153.33
-188,Abhinav Manohar,c Padikkal b Zampa,27,13,17,0,3,207.69
-189,Rahul Tewatia,not out,1,1,10,0,0,100.00
-190,Rashid Khan,run out (Buttler/Sandeep Sharma),1,1,4,0,0,100.00
-191,Alzarri Joseph,not out,0,0,2,0,0,-
-192,Ruturaj Gaikwad,c Parnell b Mohammed Siraj,3,6,12,0,0,50.00
-193,Devon Conway,b Patel,83,45,73,6,6,184.44
-194,Ajinkya Rahane,b de Silva,37,20,33,3,2,185.00
-195,Shivam Dube,c Mohammed Siraj b Parnell,52,27,35,2,5,192.59
-196,Ambati Rayudu,c †Karthik b Vyshak,14,6,11,1,1,233.33
-197,Moeen Ali,not out,19,9,24,0,2,211.11
-198,Ravindra Jadeja,c Prabhudessai b Maxwell,10,8,17,0,1,125.00
-199,MS Dhoni (c)†,not out,1,1,2,0,0,100.00
-200,Rohit Sharma (c),c Markram b Natarajan,28,18,22,6,0,155.55
-201,Ishan Kishan †,c Markram b Jansen,38,31,51,3,2,122.58
-202,Cameron Green,not out,64,40,75,6,2,160.00
-203,Suryakumar Yadav,c Markram b Jansen,7,3,6,0,1,233.33
-204,Tilak Varma,c Agarwal b Kumar,37,17,24,2,4,217.64
-205,Tim David,run out (Abhishek Sharma/Natarajan),16,11,19,2,0,145.45
-206,KL Rahul (c),c Buttler b Holder,39,32,51,4,1,121.87
-207,Kyle Mayers,b Ashwin,51,42,69,4,3,121.42
-208,Ayush Badoni,b Boult,1,4,6,0,0,25.00
-209,Deepak Hooda,c Hetmyer b Ashwin,2,4,7,0,0,50.00
-210,Marcus Stoinis,c †Samson b Sandeep Sharma,21,16,31,2,0,131.25
-211,Nicholas Pooran †,run out (†Samson),29,20,27,2,1,145.00
-212,Krunal Pandya,not out,4,2,4,1,0,200.00
-213,Yudhvir Singh,run out (Hetmyer/†Samson),1,1,2,0,0,100.00
-214,Virat Kohli (c),c †Sharma b Harpreet Brar,59,47,72,5,1,125.53
-215,Faf du Plessis,c Curran b Ellis,84,56,78,5,5,150.00
-216,Glenn Maxwell,c Taide b Harpreet Brar,0,1,1,0,0,0.00
-217,Dinesh Karthik †,c Taide b Arshdeep Singh,7,5,16,1,0,140.00
-218,Mahipal Lomror,not out,7,9,15,1,0,77.77
-219,Shahbaz Ahmed,not out,5,3,5,0,0,166.66
-220,Jason Roy,c Aman Hakim Khan b Kuldeep Yadav,43,39,74,5,1,110.25
-221,Litton Das †,c Lalit Yadav b Mukesh Kumar,4,4,13,1,0,100.00
-222,Venkatesh Iyer,c Marsh b Nortje,0,2,9,0,0,0.00
-223,Nitish Rana (c),c Mukesh Kumar b Sharma,4,7,11,1,0,57.14
-224,Mandeep Singh,b Patel,12,11,16,0,1,109.09
-225,Rinku Singh,c Lalit Yadav b Patel,6,8,9,1,0,75.00
-226,Sunil Narine,c Warner b Sharma,4,6,6,1,0,66.66
-227,Andre Russell,not out,38,31,49,1,4,122.58
-228,Anukul Roy,lbw b Kuldeep Yadav,0,1,2,0,0,0.00
-229,Umesh Yadav,c & b Nortje,3,5,5,0,0,60.00
-230,Varun Chakravarthy,run out (sub [YV Dhull]/†Salt),1,6,28,0,0,16.66
-231,Harry Brook,c Gaikwad b Akash Singh,18,13,23,3,0,138.46
-232,Abhishek Sharma,c Rahane b Jadeja,34,26,43,3,1,130.76
-233,Rahul Tripathi,c Akash Singh b Jadeja,21,21,31,1,1,100.00
-234,Aiden Markram (c),c †Dhoni b Theekshana,12,12,15,1,0,100.00
-235,Heinrich Klaasen †,c Gaikwad b Pathirana,17,16,27,1,0,106.25
-236,Mayank Agarwal,st †Dhoni b Jadeja,2,4,6,0,0,50.00
-237,Marco Jansen,not out,17,22,29,1,0,77.27
-238,Washington Sundar,run out (†Dhoni),9,6,14,1,0,150.00
-239,Wriddhiman Saha †,c Hooda b Pandya,47,37,51,6,0,127.02
-240,Shubman Gill,c Ravi Bishnoi b Pandya,0,2,9,0,0,0.00
-241,Hardik Pandya (c),c Rahul b Stoinis,66,50,89,2,4,132.00
-242,Abhinav Manohar,c Naveen-ul-Haq b Mishra,3,5,7,0,0,60.00
-243,Vijay Shankar,b Naveen-ul-Haq,10,12,17,1,0,83.33
-244,David Miller,c Hooda b Stoinis,6,12,28,0,0,50.00
-245,Rahul Tewatia,not out,2,2,4,0,0,100.00
-246,Matthew Short,c Chawla b Green,11,10,15,2,0,110.00
-247,Prabhsimran Singh,lbw b Tendulkar,26,17,37,1,2,152.94
-248,Atharva Taide,b Chawla,29,17,38,3,1,170.58
-249,Liam Livingstone,st †Ishan Kishan b Chawla,10,12,12,0,1,83.33
-250,Harpreet Singh,b Green,41,28,47,4,2,146.42
-251,Sam Curran (c),c & b Archer,55,29,51,5,4,189.65
-252,Jitesh Sharma †,b Behrendorff,25,7,12,0,4,357.14
-253,M Shahrukh Khan,not out,0,0,6,0,0,-
-254,Harpreet Brar,run out (Tilak Varma/†Ishan Kishan),5,2,3,1,0,250.00
-255,Virat Kohli (c),lbw b Boult,0,1,2,0,0,0.00
-256,Faf du Plessis,run out (Jaiswal),62,39,71,8,2,158.97
-257,Shahbaz Ahmed,c Jaiswal b Boult,2,4,10,0,0,50.00
-258,Glenn Maxwell,c Holder b Ashwin,77,44,66,6,4,175.00
-259,Mahipal Lomror,c Padikkal b Chahal,8,6,16,1,0,133.33
-260,Dinesh Karthik †,c Buttler b Sandeep Sharma,16,13,28,2,0,123.07
-261,Suyash Prabhudessai,run out (Jaiswal/†Samson),0,2,5,0,0,0.00
-262,Wanindu Hasaranga,run out (†Samson/Sandeep Sharma),6,7,14,0,0,85.71
-263,David Willey,not out,4,2,8,1,0,200.00
-264,Vijaykumar Vyshak,c Hetmyer b Sandeep Sharma,0,1,2,0,0,0.00
-265,Mohammed Siraj,not out,1,1,4,0,0,100.00
-266,Ruturaj Gaikwad,b Suyash Sharma,35,20,35,2,3,175.00
-267,Devon Conway,c Wiese b Varun,56,40,56,4,3,140.00
-268,Ajinkya Rahane,not out,71,29,70,6,5,244.82
-269,Shivam Dube,c Roy b Khejroliya,50,21,31,2,5,238.09
-270,Ravindra Jadeja,c Singh b Khejroliya,18,8,13,0,2,225.00
-271,MS Dhoni (c)†,not out,2,3,4,0,0,66.66
-272,David Warner (c),c Brook b Washington Sundar,21,20,39,2,1,105.00
-273,Phil Salt †,c †Klaasen b Kumar,0,1,4,0,0,0.00
-274,Mitchell Marsh,lbw b Natarajan,25,15,22,5,0,166.66
-275,Sarfaraz Khan,c Kumar b Washington Sundar,10,9,16,0,1,111.11
-276,Manish Pandey,run out (Washington Sundar/†Klaasen),34,27,53,2,0,125.92
-277,Aman Hakim Khan,c Abhishek Sharma b Washington Sundar,4,2,3,1,0,200.00
-278,Axar Patel,b Kumar,34,34,43,4,0,100.00
-279,Ripal Patel,run out (†Klaasen),5,6,13,0,0,83.33
-280,Anrich Nortje,run out (Umran Malik/†Klaasen),2,2,7,0,0,100.00
-281,Kuldeep Yadav,not out,4,3,5,1,0,133.33
-282,Ishant Sharma,not out,1,1,2,0,0,100.00
-283,Wriddhiman Saha †,c †Ishan Kishan b Tendulkar,4,7,13,0,0,57.14
-284,Shubman Gill,c Yadav b Kartikeya,56,34,57,7,1,164.70
-285,Hardik Pandya (c),c Yadav b Chawla,13,14,23,1,0,92.85
-286,Vijay Shankar,c David b Chawla,19,16,27,1,1,118.75
-287,David Miller,c Yadav b Behrendorff,46,22,47,2,4,209.09
-288,Abhinav Manohar,c Behrendorff b Meredith,42,21,30,3,3,200.00
-289,Rahul Tewatia,not out,20,5,13,0,3,400.00
-290,Rashid Khan,not out,2,1,2,0,0,200.00
-291,Jason Roy,b Vyshak,56,29,50,4,5,193.10
-292,Narayan Jagadeesan †,c Willey b Vyshak,27,29,44,4,0,93.10
-293,Venkatesh Iyer,c Maxwell b de Silva,31,26,44,3,0,119.23
-294,Nitish Rana (c),c Vyshak b de Silva,48,21,28,3,4,228.57
-295,Andre Russell,b Mohammed Siraj,1,2,10,0,0,50.00
-296,Rinku Singh,not out,18,10,12,2,1,180.00
-297,David Wiese,not out,12,3,5,0,2,400.00
-298,Yashasvi Jaiswal,c Rahane b Deshpande,77,43,67,8,4,179.06
-299,Jos Buttler,c Dube b Jadeja,27,21,40,4,0,128.57
-300,Sanju Samson (c)†,c Gaikwad b Deshpande,17,17,21,1,0,100.00
-301,Shimron Hetmyer,b Theekshana,8,10,16,0,0,80.00
-302,Dhruv Jurel,run out (†Dhoni),34,15,32,3,2,226.66
-303,Devdutt Padikkal,not out,27,13,22,5,0,207.69
-304,Ravichandran Ashwin,not out,1,1,3,0,0,100.00
-305,KL Rahul (c),c Shahrukh Khan b Rabada,12,9,19,1,1,133.33
-306,Kyle Mayers,c Dhawan b Rabada,54,24,31,7,4,225.00
-307,Ayush Badoni,c Chahar b Livingstone,43,24,49,3,3,179.16
-308,Marcus Stoinis,c †Sharma b Curran,72,40,63,6,5,180.00
-309,Nicholas Pooran †,lbw b Arshdeep Singh,45,19,36,7,1,236.84
-310,Deepak Hooda,not out,11,6,12,2,0,183.33
-311,Krunal Pandya,not out,5,2,3,1,0,250.00
-312,Narayan Jagadeesan †,lbw b Mohammed Shami,19,15,16,4,0,126.66
-313,Rahmanullah Gurbaz,c Rashid Khan b Noor Ahmad,81,39,80,5,7,207.69
-314,Shardul Thakur,c Sharma b Mohammed Shami,0,4,13,0,0,0.00
-315,Venkatesh Iyer,lbw b Little,11,14,27,0,0,78.57
-316,Nitish Rana (c),c Tewatia b Little,4,3,5,1,0,133.33
-317,Rinku Singh,c Little b Noor Ahmad,19,20,33,0,1,95.00
-318,Andre Russell,c Tewatia b Mohammed Shami,34,19,22,2,3,178.94
-319,David Wiese,not out,8,6,13,0,1,133.33
-320,Abhishek Sharma,c Warner b AR Patel,67,36,62,12,1,186.11
-321,Mayank Agarwal,c †Salt b Sharma,5,6,15,1,0,83.33
-322,Rahul Tripathi,c Pandey b Marsh,10,6,12,0,1,166.66
-323,Aiden Markram (c),c AR Patel b Marsh,8,13,21,0,0,61.53
-324,Harry Brook,c AR Patel b Marsh,0,2,3,0,0,0.00
-325,Heinrich Klaasen †,not out,53,27,50,2,4,196.29
-326,Abdul Samad,c †Salt b Marsh,28,21,21,1,2,133.33
-327,Akeal Hosein,not out,16,10,17,1,1,160.00
-328,Ruturaj Gaikwad,st †Sharma b Sikandar Raza,37,31,47,4,1,119.35
-329,Devon Conway,not out,92,52,103,16,1,176.92
-330,Shivam Dube,c Shahrukh Khan b Arshdeep Singh,28,17,23,1,2,164.70
-331,Moeen Ali,st †Sharma b Chahar,10,6,12,2,0,166.66
-332,Ravindra Jadeja,c Livingstone b Curran,12,10,15,0,0,120.00
-333,MS Dhoni (c)†,not out,13,4,8,0,2,325.00
-334,Yashasvi Jaiswal,c & b Arshad Khan,124,62,112,16,8,200.00
-335,Jos Buttler,c sub (Ramandeep Singh) b Chawla,18,19,40,2,1,94.73
-336,Sanju Samson (c)†,c Tilak Varma b Arshad Khan,14,10,15,1,1,140.00
-337,Devdutt Padikkal,b Chawla,2,4,6,0,0,50.00
-338,Jason Holder,c David b Archer,11,9,18,0,1,122.22
-339,Shimron Hetmyer,c Yadav b Arshad Khan,8,9,14,0,1,88.88
-340,Dhruv Jurel,c Tilak Varma b Meredith,2,3,6,0,0,66.66
-341,Ravichandran Ashwin,not out,8,5,20,1,0,160.00
-342,Trent Boult,not out,0,0,4,0,0,-
-343,Virat Kohli,st †Pooran b Ravi Bishnoi,31,30,42,3,0,103.33
-344,Faf du Plessis (c),c Pandya b Mishra,44,40,83,1,1,110.00
-345,Anuj Rawat,c Mayers b Gowtham,9,11,13,0,0,81.81
-346,Glenn Maxwell,lbw b Ravi Bishnoi,4,5,8,0,0,80.00
-347,Suyash Prabhudessai,c Gowtham b Mishra,6,7,10,0,0,85.71
-348,Dinesh Karthik †,run out (Yash Thakur),16,11,25,1,1,145.45
-349,Mahipal Lomror,lbw b Naveen-ul-Haq,3,4,7,0,0,75.00
-350,Wanindu Hasaranga,not out,8,7,14,1,0,114.28
-351,Karn Sharma,c Gowtham b Naveen-ul-Haq,2,2,5,0,0,100.00
-352,Mohammed Siraj,c †Pooran b Naveen-ul-Haq,0,1,3,0,0,0.00
-353,Josh Hazlewood,not out,1,2,3,0,0,50.00
-354,Phil Salt †,c Miller b Mohammed Shami,0,1,2,0,0,0.00
-355,David Warner (c),run out (Rashid Khan),2,2,10,0,0,100.00
-356,Priyam Garg,c †Saha b Mohammed Shami,10,14,26,0,0,71.42
-357,Rilee Rossouw,c †Saha b Mohammed Shami,8,6,9,2,0,133.33
-358,Manish Pandey,c †Saha b Mohammed Shami,1,4,7,0,0,25.00
-359,Axar Patel,c Rashid Khan b Sharma,27,30,43,2,1,90.00
-360,Aman Hakim Khan,c Manohar b Rashid Khan,51,44,62,3,3,115.90
-361,Ripal Patel,c Pandya b Sharma,23,13,32,2,1,176.92
-362,Anrich Nortje,not out,3,6,8,0,0,50.00
-363,Kuldeep Yadav,not out,0,1,1,0,0,0.00
-364,Manan Vohra,b Theekshana,10,11,27,1,0,90.90
-365,Kyle Mayers,c Gaikwad b Ali,14,17,17,2,0,82.35
-366,Karan Sharma,c & b Ali,9,16,32,0,0,56.25
-367,Krunal Pandya (c),c Rahane b Theekshana,0,1,3,0,0,0.00
-368,Marcus Stoinis,b Jadeja,6,4,5,1,0,150.00
-369,Nicholas Pooran †,c Ali b Pathirana,20,31,46,0,0,64.51
-370,Ayush Badoni,not out,59,33,41,2,4,178.78
-371,Krishnappa Gowtham,c Rahane b Pathirana,1,3,10,0,0,33.33
-372,Prabhsimran Singh,c †Ishan Kishan b Arshad Khan,9,7,8,1,0,128.57
-373,Shikhar Dhawan (c),st †Ishan Kishan b Chawla,30,20,35,5,0,150.00
-374,Matthew Short,b Chawla,27,26,46,2,1,103.84
-375,Liam Livingstone,not out,82,42,65,7,4,195.23
-376,Jitesh Sharma †,not out,49,27,46,5,2,181.48
-377,Jason Roy,c Agarwal b Kartik Tyagi,20,19,27,4,0,105.26
-378,Rahmanullah Gurbaz †,c Brook b Jansen,0,1,7,0,0,0.00
-379,Venkatesh Iyer,c †Klaasen b Jansen,7,4,6,1,0,175.00
-380,Nitish Rana (c),c & b Markram,42,31,46,3,3,135.48
-381,Rinku Singh,c Abdul Samad b Natarajan,46,35,67,4,1,131.42
-382,Andre Russell,c Natarajan b Markande,24,15,13,1,2,160.00
-383,Sunil Narine,c Agarwal b Kumar,1,2,6,0,0,50.00
-384,Shardul Thakur,c Abdul Samad b Natarajan,8,6,9,1,0,133.33
-385,Anukul Roy,not out,13,7,11,2,0,185.71
-386,Harshit Rana,run out (†Klaasen/Natarajan),0,1,2,0,0,0.00
-387,Vaibhav Arora,not out,2,1,2,0,0,200.00
-388,Yashasvi Jaiswal,run out (Sharma/Rashid Khan),14,11,31,1,1,127.27
-389,Jos Buttler,c Sharma b Pandya,8,6,10,2,0,133.33
-390,Sanju Samson (c)†,c Pandya b Little,30,20,27,3,1,150.00
-391,Devdutt Padikkal,b Noor Ahmad,12,12,30,1,0,100.00
-392,Ravichandran Ashwin,b Rashid Khan,2,6,6,0,0,33.33
-393,Riyan Parag,lbw b Rashid Khan,4,6,8,0,0,66.66
-394,Shimron Hetmyer,lbw b Rashid Khan,7,13,29,0,0,53.84
-395,Dhruv Jurel,lbw b Noor Ahmad,9,8,13,1,0,112.50
-396,Trent Boult,b Mohammed Shami,15,11,15,1,1,136.36
-397,Adam Zampa,run out (Manohar),7,9,19,0,0,77.77
-398,Sandeep Sharma,not out,2,5,8,0,0,40.00
-399,Cameron Green,b Deshpande,6,4,10,1,0,150.00
-400,Ishan Kishan †,c Theekshana b Chahar,7,9,15,1,0,77.77
-401,Rohit Sharma (c),c Jadeja b Chahar,0,3,9,0,0,0.00
-402,Nehal Wadhera,b Pathirana,64,51,68,8,1,125.49
-403,Suryakumar Yadav,b Jadeja,26,22,35,3,0,118.18
-404,Tristan Stubbs,c Jadeja b Pathirana,20,21,44,2,0,95.23
-405,Tim David,c Gaikwad b Deshpande,2,4,7,0,0,50.00
-406,Arshad Khan,c Gaikwad b Pathirana,1,2,6,0,0,50.00
-407,Jofra Archer,not out,3,2,5,0,0,150.00
-408,Piyush Chawla,not out,2,2,2,0,0,100.00
-409,Virat Kohli,c Ahmed b Mukesh Kumar,55,46,74,5,0,119.56
-410,Faf du Plessis (c),c AR Patel b Marsh,45,32,46,5,1,140.62
-411,Glenn Maxwell,c †Salt b Marsh,0,1,2,0,0,0.00
-412,Mahipal Lomror,not out,54,29,53,6,3,186.20
-413,Dinesh Karthik †,c Warner b Ahmed,11,9,22,0,1,122.22
-414,Anuj Rawat,not out,8,3,5,0,1,266.66
-415,Wriddhiman Saha †,c sub (PN Mankad) b Avesh Khan,81,43,59,10,4,188.37
-416,Shubman Gill,not out,94,51,96,2,7,184.31
-417,Hardik Pandya (c),c Pandya b Mohsin Khan,25,15,20,1,2,166.66
-418,David Miller,not out,21,12,19,2,1,175.00
-419,Yashasvi Jaiswal,c Natarajan b Jansen,35,18,27,5,2,194.44
-420,Jos Buttler,lbw b Kumar,95,59,84,10,4,161.01
-421,Sanju Samson (c)†,not out,66,38,66,4,5,173.68
-422,Shimron Hetmyer,not out,7,5,8,0,0,140.00
-423,Prabhsimran Singh,c †Rahmanullah Gurbaz b Harshit Rana,12,8,11,3,0,150.00
-424,Shikhar Dhawan (c),c Arora b Rana,57,47,80,9,1,121.27
-425,Bhanuka Rajapaksa,c †Rahmanullah Gurbaz b Harshit Rana,0,3,11,0,0,0.00
-426,Liam Livingstone,lbw b Varun,15,9,16,3,0,166.66
-427,Jitesh Sharma †,c †Rahmanullah Gurbaz b Varun,21,18,34,0,2,116.66
-428,Sam Curran,c †Rahmanullah Gurbaz b Suyash Sharma,4,9,25,0,0,44.44
-429,Rishi Dhawan,b Varun,19,11,12,1,1,172.72
-430,M Shahrukh Khan,not out,21,8,20,3,1,262.50
-431,Harpreet Brar,not out,17,9,17,2,1,188.88
-432,Virat Kohli,c †Ishan Kishan b Behrendorff,1,4,7,0,0,25.00
-433,Faf du Plessis (c),c sub (Vishnu Vinod) b Green,65,41,78,5,3,158.53
-434,Anuj Rawat,c Green b Behrendorff,6,4,8,1,0,150.00
-435,Glenn Maxwell,c Wadhera b Behrendorff,68,33,53,8,4,206.06
-436,Mahipal Lomror,b Kartikeya,1,3,6,0,0,33.33
-437,Dinesh Karthik †,c Wadhera b Jordan,30,18,31,4,1,166.66
-438,Kedar Jadhav,not out,12,10,33,1,0,120.00
-439,Wanindu Hasaranga,not out,12,8,11,2,0,150.00
-440,Ruturaj Gaikwad,c Aman Hakim Khan b AR Patel,24,18,39,4,0,133.33
-441,Devon Conway,lbw b AR Patel,10,13,28,1,0,76.92
-442,Ajinkya Rahane,c & b Lalit Yadav,21,20,31,2,0,105.00
-443,Moeen Ali,c Marsh b Kuldeep Yadav,7,12,13,0,0,58.33
-444,Shivam Dube,c Warner b Marsh,25,12,24,0,3,208.33
-445,Ambati Rayudu,c RV Patel b Ahmed,23,17,28,1,1,135.29
-446,Ravindra Jadeja,c AR Patel b Marsh,21,16,30,1,1,131.25
-447,MS Dhoni (c)†,c Warner b Marsh,20,9,22,1,2,222.22
-448,Deepak Chahar,not out,1,2,6,0,0,50.00
-449,Tushar Deshpande,not out,0,1,2,0,0,0.00
-450,Jason Roy,c Hetmyer b Boult,10,8,14,2,0,125.00
-451,Rahmanullah Gurbaz †,c Sandeep Sharma b Boult,18,12,23,1,2,150.00
-452,Venkatesh Iyer,c Boult b Chahal,57,42,68,2,4,135.71
-453,Nitish Rana (c),c Hetmyer b Chahal,22,17,26,2,0,129.41
-454,Andre Russell,c Ashwin b Asif,10,10,19,0,1,100.00
-455,Rinku Singh,c Root b Chahal,16,18,30,0,1,88.88
-456,Shardul Thakur,lbw b Chahal,1,2,5,0,0,50.00
-457,Anukul Roy,not out,6,6,20,0,0,100.00
-458,Sunil Narine,c Root b Sandeep Sharma,6,5,9,1,0,120.00
-459,Ishan Kishan †,lbw b Rashid Khan,31,20,38,4,1,155.00
-460,Rohit Sharma (c),c Tewatia b Rashid Khan,29,18,34,3,2,161.11
-461,Suryakumar Yadav,not out,103,49,73,11,6,210.20
-462,Nehal Wadhera,b Rashid Khan,15,7,12,1,1,214.28
-463,Vishnu Vinod,c Manohar b Sharma,30,20,36,2,2,150.00
-464,Tim David,c & b Rashid Khan,5,3,6,1,0,166.66
-465,Cameron Green,not out,3,3,18,0,0,100.00
-466,Anmolpreet Singh,c & b Mishra,36,27,46,7,0,133.33
-467,Abhishek Sharma,c †de Kock b Yudhvir Singh,7,5,14,1,0,140.00
-468,Rahul Tripathi,c †de Kock b Yash Thakur,20,13,19,4,0,153.84
-469,Aiden Markram (c),st †de Kock b Pandya,28,20,28,2,1,140.00
-470,Heinrich Klaasen †,c Mankad b Avesh Khan,47,29,52,3,3,162.06
-471,Glenn Phillips,b Pandya,0,1,2,0,0,0.00
-472,Abdul Samad,not out,37,25,41,1,4,148.00
-473,Bhuvneshwar Kumar,not out,2,1,6,0,0,200.00
-474,Prabhsimran Singh,b Mukesh Kumar,103,65,87,10,6,158.46
-475,Shikhar Dhawan (c),c Rossouw b Sharma,7,5,9,0,1,140.00
-476,Liam Livingstone,b Sharma,4,5,15,1,0,80.00
-477,Jitesh Sharma †,b Patel,5,5,8,1,0,100.00
-478,Sam Curran,c Aman Hakim Khan b Dubey,20,24,39,1,0,83.33
-479,Harpreet Brar,c Marsh b Kuldeep Yadav,2,5,9,0,0,40.00
-480,M Shahrukh Khan,run out (†Salt/Ahmed),2,4,22,0,0,50.00
-481,Sikandar Raza,not out,11,7,11,0,1,157.14
-482,Rishi Dhawan,not out,0,0,1,0,0,-
-483,Virat Kohli,c Jaiswal b Asif,18,19,31,1,0,94.73
-484,Faf du Plessis (c),c Jaiswal b Asif,55,44,65,3,2,125.00
-485,Glenn Maxwell,b Sandeep Sharma,54,33,51,5,3,163.63
-486,Mahipal Lomror,c Jurel b Zampa,1,2,5,0,0,50.00
-487,Dinesh Karthik †,lbw b Zampa,0,2,3,0,0,0.00
-488,Michael Bracewell,not out,9,9,21,0,0,100.00
-489,Anuj Rawat,not out,29,11,12,3,2,263.63
-490,Ruturaj Gaikwad,c Arora b Varun,17,13,19,2,0,130.76
-491,Devon Conway,c Singh b Thakur,30,28,51,3,0,107.14
-492,Ajinkya Rahane,c Roy b Varun,16,11,24,1,1,145.45
-493,Ambati Rayudu,b Narine,4,7,14,0,0,57.14
-494,Shivam Dube,not out,48,34,55,1,3,141.17
-495,Moeen Ali,b Narine,1,2,5,0,0,50.00
-496,Ravindra Jadeja,c Varun b Arora,20,24,43,0,1,83.33
-497,MS Dhoni (c)†,not out,2,3,4,0,0,66.66
-498,Wriddhiman Saha †,c Abhishek Sharma b Kumar,0,3,4,0,0,0.00
-499,Shubman Gill,c Abdul Samad b Kumar,101,58,100,13,1,174.13
-500,Sai Sudharsan,c Natarajan b Jansen,47,36,70,6,1,130.55
-501,Hardik Pandya (c),c Tripathi b Kumar,8,6,7,1,0,133.33
-502,David Miller,c Markram b Natarajan,7,5,8,1,0,140.00
-503,Rahul Tewatia,c Jansen b Fazalhaq Farooqi,3,3,7,0,0,100.00
-504,Dasun Shanaka,not out,9,7,12,1,0,128.57
-505,Rashid Khan,c †Klaasen b Kumar,0,1,2,0,0,0.00
-506,Noor Ahmad,run out (†Klaasen/Kumar),0,1,1,0,0,0.00
-507,Mohammed Shami,c Jansen b Kumar,0,1,3,0,0,0.00
-508,Mohit Sharma,not out,0,1,1,0,0,0.00
-509,Deepak Hooda,c David b Behrendorff,5,7,12,0,0,71.42
-510,Quinton de Kock †,c †Ishan Kishan b Chawla,16,15,31,0,2,106.66
-511,Prerak Mankad,c †Ishan Kishan b Behrendorff,0,1,2,0,0,0.00
-512,Krunal Pandya (c),retired hurt,49,42,71,1,1,116.66
-513,Marcus Stoinis,not out,89,47,80,4,8,189.36
-514,Nicholas Pooran,not out,8,8,25,1,0,100.00
-515,David Warner (c),c Dhawan b Curran,46,31,53,5,2,148.38
-516,Prithvi Shaw,c Taide b Curran,54,38,74,7,1,142.10
-517,Rilee Rossouw,not out,82,37,44,6,6,221.62
-518,Phil Salt †,not out,26,14,21,2,2,185.71
-519,Abhishek Sharma,c Lomror b Bracewell,11,14,22,2,0,78.57
-520,Rahul Tripathi,c Patel b Bracewell,15,12,25,2,1,125.00
-521,Aiden Markram (c),b Shahbaz Ahmed,18,20,37,0,0,90.00
-522,Heinrich Klaasen †,b Patel,104,51,62,8,6,203.92
-523,Harry Brook,not out,27,19,37,2,1,142.10
-524,Glenn Phillips,c Parnell b Mohammed Siraj,5,4,10,1,0,125.00
-525,Prabhsimran Singh,c & b Boult,2,2,3,0,0,100.00
-526,Shikhar Dhawan (c),lbw b Zampa,17,12,31,2,1,141.66
-527,Atharva Taide,c Padikkal b Saini,19,12,19,3,1,158.33
-528,Liam Livingstone,b Saini,9,13,16,1,0,69.23
-529,Sam Curran,not out,49,31,72,4,2,158.06
-530,Jitesh Sharma †,c sub (D Ferreira) b Saini,44,28,36,3,3,157.14
-531,M Shahrukh Khan,not out,41,23,31,4,2,178.26
-532,Ruturaj Gaikwad,c Rossouw b Sakariya,79,50,68,3,7,158.00
-533,Devon Conway,c Aman Hakim Khan b Nortje,87,52,90,11,3,167.30
-534,Shivam Dube,c Lalit Yadav b Ahmed,22,9,21,0,3,244.44
-535,MS Dhoni (c)†,not out,5,4,14,0,0,125.00
-536,Ravindra Jadeja,not out,20,7,12,3,1,285.71
-537,Karan Sharma,c Thakur b Harshit Rana,3,5,15,0,0,60.00
-538,Quinton de Kock †,c Russell b Varun,28,27,55,0,2,103.70
-539,Prerak Mankad,c Harshit Rana b Arora,26,20,22,5,0,130.00
-540,Marcus Stoinis,c Iyer b Arora,0,2,5,0,0,0.00
-541,Krunal Pandya (c),c Singh b Narine,9,8,13,0,1,112.50
-542,Ayush Badoni,c Thakur b Narine,25,21,42,2,1,119.04
-543,Nicholas Pooran,c Iyer b Thakur,58,30,42,4,5,193.33
-544,Krishnappa Gowtham,not out,11,4,9,1,1,275.00
-545,Ravi Bishnoi,b Thakur,2,2,3,0,0,100.00
-546,Naveen-ul-Haq,not out,2,3,3,0,0,66.66
-547,Vivrant Sharma,c sub (Ramandeep Singh) b Madhwal,69,47,69,9,2,146.80
-548,Mayank Agarwal,c †Ishan Kishan b Madhwal,83,46,84,8,4,180.43
-549,Heinrich Klaasen †,b Madhwal,18,13,31,2,0,138.46
-550,Glenn Phillips,c Kartikeya b Jordan,1,4,8,0,0,25.00
-551,Aiden Markram (c),not out,13,7,19,0,1,185.71
-552,Harry Brook,b Madhwal,0,1,2,0,0,0.00
-553,Sanvir Singh,not out,4,3,8,1,0,133.33
-554,Virat Kohli,not out,101,61,102,13,1,165.57
-555,Faf du Plessis (c),c Tewatia b Noor Ahmad,28,19,35,5,0,147.36
-556,Glenn Maxwell,b Rashid Khan,11,5,7,1,1,220.00
-557,Mahipal Lomror,st †Saha b Noor Ahmad,1,3,5,0,0,33.33
-558,Michael Bracewell,c & b Mohammed Shami,26,16,26,5,0,162.50
-559,Dinesh Karthik,c †Saha b Yash Dayal,0,1,2,0,0,0.00
-560,Anuj Rawat †,not out,23,15,30,1,1,153.33
-561,Ruturaj Gaikwad,c Miller b Sharma,60,44,48,7,1,136.36
-562,Devon Conway,c Rashid Khan b Mohammed Shami,40,34,74,4,0,117.64
-563,Shivam Dube,b Noor Ahmad,1,3,4,0,0,33.33
-564,Ajinkya Rahane,c Shubman Gill b Nalkande,17,10,15,0,1,170.00
-565,Ambati Rayudu,c Shanaka b Rashid Khan,17,9,15,1,1,188.88
-566,Ravindra Jadeja,b Mohammed Shami,22,16,25,2,0,137.50
-567,MS Dhoni (c)†,c Pandya b Sharma,1,2,4,0,0,50.00
-568,Moeen Ali,not out,9,4,7,0,1,225.00
-569,Ishan Kishan †,c †Pooran b Yash Thakur,15,12,18,3,0,125.00
-570,Rohit Sharma (c),c Badoni b Naveen-ul-Haq,11,10,11,1,1,110.00
-571,Cameron Green,b Naveen-ul-Haq,41,23,38,6,1,178.26
-572,Suryakumar Yadav,c Gowtham b Naveen-ul-Haq,33,20,29,2,2,165.00
-573,Tilak Varma,c Hooda b Naveen-ul-Haq,26,22,43,0,2,118.18
-574,Tim David,c Hooda b Yash Thakur,13,13,29,1,0,100.00
-575,Nehal Wadhera,c Ravi Bishnoi b Yash Thakur,23,12,23,2,2,191.66
-576,Chris Jordan,c Hooda b Mohsin Khan,4,7,7,0,0,57.14
-577,Hrithik Shokeen,not out,0,1,6,0,0,0.00
-578,Wriddhiman Saha †,st †Ishan Kishan b Chawla,18,16,31,3,0,112.50
-579,Shubman Gill,c David b Madhwal,129,60,86,7,10,215.00
-580,Sai Sudharsan,retired out,43,31,68,5,1,138.70
-581,Hardik Pandya (c),not out,28,13,20,2,2,215.38
-582,Rashid Khan,not out,5,2,6,1,0,250.00
-583,Wriddhiman Saha †,c †Dhoni b Chahar,54,39,63,5,1,138.46
-584,Shubman Gill,st †Dhoni b Jadeja,39,20,34,7,0,195.00
-585,Sai Sudharsan,lbw b Pathirana,96,47,58,8,6,204.25
-586,Hardik Pandya (c),not out,21,12,32,0,2,175.00
-587,Rashid Khan,c Gaikwad b Pathirana,0,2,2,0,0,0.00
+9,Wriddhiman Saha ,c Dube b Hangargekar,25,16,-,2,2,156.25
+10,Shubman Gill,c Gaikwad b Deshpande,63,36,-,6,3,175.00
+11,Sai Sudharsan,c †Dhoni b Hangargekar,22,17,-,3,0,129.41
+12,Hardik Pandya ,b Jadeja,8,11,-,0,0,72.72
+13,Vijay Shankar,c Santner b Hangargekar,27,21,-,2,1,128.57
+14,Rahul Tewatia,not out,15,14,-,1,1,107.14
+15,Rashid Khan,not out,10,3,-,1,1,333.33
+16,Prabhsimran Singh,c †Rahmanullah Gurbaz b Southee,23,12,10,2,2,191.66
+17,Shikhar Dhawan ,b Varun,40,29,75,6,0,137.93
+18,Bhanuka Rajapaksa,c Singh b Yadav,50,32,47,5,2,156.25
+19,Jitesh Sharma ,c Yadav b Southee,21,11,13,1,2,190.90
+20,Sikandar Raza,c Rana b Narine,16,13,22,1,1,123.07
+21,Sam Curran,not out,26,17,27,0,2,152.94
+22,M Shahrukh Khan,not out,11,7,11,2,0,157.14
+23,Mandeep Singh,c Curran b Arshdeep Singh,2,4,7,0,0,50.00
+24,Rahmanullah Gurbaz ,b Ellis,22,16,26,3,1,137.50
+25,Anukul Roy,c Sikandar Raza b Arshdeep Singh,4,5,5,1,0,80.00
+26,Venkatesh Iyer,c Chahar b Arshdeep Singh,34,28,66,3,1,121.42
+27,Nitish Rana ,c Chahar b Sikandar Raza,24,17,23,3,1,141.17
+28,Rinku Singh,c Sikandar Raza b Chahar,4,4,5,0,0,100.00
+29,Andre Russell,c Sikandar Raza b Curran,35,19,24,3,2,184.21
+30,Shardul Thakur,not out,8,3,8,0,1,266.66
+31,Sunil Narine,not out,7,2,4,0,1,350.00
+32,KL Rahul ,c Patel b Sakariya,8,12,21,0,1,66.66
+33,Kyle Mayers,b Patel,73,38,53,2,7,192.10
+34,Deepak Hooda,c Warner b Kuldeep Yadav,17,18,31,0,0,94.44
+35,Krunal Pandya,not out,15,13,51,0,1,115.38
+36,Marcus Stoinis,c †Khan b Ahmed,12,10,13,0,1,120.00
+37,Nicholas Pooran ,c Shaw b Ahmed,36,21,24,2,3,171.42
+38,Ayush Badoni,c †Khan b Sakariya,18,7,10,1,2,257.14
+39,Krishnappa Gowtham,not out,6,1,2,0,1,600.00
+40,Prithvi Shaw,b Wood,12,9,24,2,0,133.33
+41,David Warner ,c Gowtham b Avesh Khan,56,48,87,7,0,116.66
+42,Mitchell Marsh,b Wood,0,1,2,0,0,0.00
+43,Sarfaraz Khan ,c Gowtham b Wood,4,9,16,1,0,44.44
+44,Rilee Rossouw,c Mayers b Ravi Bishnoi,30,20,24,3,1,150.00
+45,Rovman Powell,lbw b Ravi Bishnoi,1,3,11,0,0,33.33
+46,Aman Hakim Khan,c †Pooran b Avesh Khan,4,5,11,0,0,80.00
+47,Axar Patel,c sub (PN Mankad) b Wood,16,11,21,1,1,145.45
+48,Kuldeep Yadav,not out,6,10,22,0,0,60.00
+49,Chetan Sakariya,c Pandya b Wood,4,4,5,1,0,100.00
+50,Mukesh Kumar,not out,0,1,1,0,0,0.00
+51,Yashasvi Jaiswal,c Agarwal b Fazalhaq Farooqi,54,37,63,9,0,145.94
+52,Jos Buttler,b Fazalhaq Farooqi,54,22,32,7,3,245.45
+53,Sanju Samson ,c Abhishek Sharma b Natarajan,55,32,66,3,4,171.87
+54,Devdutt Padikkal,b Umran Malik,2,5,10,0,0,40.00
+55,Riyan Parag,c Fazalhaq Farooqi b Natarajan,7,6,12,1,0,116.66
+56,Shimron Hetmyer,not out,22,16,21,1,1,137.50
+57,Ravichandran Ashwin,not out,1,2,9,0,0,50.00
+58,Abhishek Sharma,b Boult,0,3,3,0,0,0.00
+59,Mayank Agarwal,c Buttler b Chahal,27,23,56,3,0,117.39
+60,Rahul Tripathi,c Holder b Boult,0,2,6,0,0,0.00
+61,Harry Brook,b Chahal,13,21,28,1,0,61.90
+62,Washington Sundar,c Hetmyer b Holder,1,5,10,0,0,20.00
+63,Glenn Phillips ,c Asif b Ashwin,8,6,6,0,1,133.33
+64,Abdul Samad,not out,32,32,51,2,1,100.00
+65,Adil Rashid,st †Samson b Chahal,18,13,17,1,1,138.46
+66,Bhuvneshwar Kumar ,b Chahal,6,10,20,0,0,60.00
+67,Umran Malik,not out,19,8,12,1,2,237.50
+68,Rohit Sharma ,c †Karthik b Akash Deep,1,10,30,0,0,10.00
+69,Ishan Kishan ,c Patel b Mohammed Siraj,10,13,13,2,0,76.92
+70,Cameron Green,b Topley,5,4,6,1,0,125.00
+71,Suryakumar Yadav,c Shahbaz Ahmed b Bracewell,15,16,35,1,0,93.75
+72,Tilak Varma,not out,84,46,85,9,4,182.60
+73,Nehal Wadhera,c Kohli b Sharma,21,13,25,1,2,161.53
+74,Tim David,b Sharma,4,7,11,0,0,57.14
+75,Hrithik Shokeen,c du Plessis b Patel,5,3,12,1,0,166.66
+76,Arshad Khan,not out,15,9,19,0,1,166.66
+77,Virat Kohli,not out,82,49,75,6,5,167.34
+78,Faf du Plessis ,c David b Arshad Khan,73,43,66,5,6,169.76
+79,Dinesh Karthik ,c Tilak Varma b Green,0,3,6,0,0,0.00
+80,Glenn Maxwell,not out,12,3,5,0,2,400.00
+81,Ruturaj Gaikwad,c Wood b Ravi Bishnoi,57,31,55,3,4,183.87
+82,Devon Conway,c Pandya b Wood,47,29,62,5,2,162.06
+83,Shivam Dube,c Wood b Ravi Bishnoi,27,16,22,1,3,168.75
+84,Moeen Ali,st †Pooran b Ravi Bishnoi,19,13,25,3,0,146.15
+85,Ben Stokes,c Yash Thakur b Avesh Khan,8,8,16,1,0,100.00
+86,Ambati Rayudu,not out,27,14,26,2,2,192.85
+87,Ravindra Jadeja,c Ravi Bishnoi b Wood,3,6,13,0,0,50.00
+88,MS Dhoni ,c Ravi Bishnoi b Wood,12,3,6,0,2,400.00
+89,Mitchell Santner,not out,1,1,2,0,0,100.00
+90,KL Rahul ,c Gaikwad b Ali,20,18,42,2,0,111.11
+91,Kyle Mayers,c Conway b Ali,53,22,35,8,2,240.90
+92,Deepak Hooda,c Stokes b Santner,2,6,6,0,0,33.33
+93,Krunal Pandya,c Jadeja b Ali,9,9,14,0,1,100.00
+94,Marcus Stoinis,b Ali,21,18,26,0,1,116.66
+95,Nicholas Pooran ,c Stokes b Deshpande,32,18,28,2,3,177.77
+96,Ayush Badoni,c †Dhoni b Deshpande,23,18,38,0,0,127.77
+97,Krishnappa Gowtham,not out,17,11,26,0,1,154.54
+98,Mark Wood,not out,10,3,2,1,1,333.33
+99,David Warner ,b Joseph,37,32,48,7,0,115.62
+100,Prithvi Shaw,c Joseph b Mohammed Shami,7,5,17,1,0,140.00
+101,Mitchell Marsh,b Mohammed Shami,4,4,10,1,0,100.00
+102,Sarfaraz Khan,c Little b Rashid Khan,30,34,66,2,0,88.23
+103,Rilee Rossouw,c Tewatia b Joseph,0,1,4,0,0,0.00
+104,Abishek Porel ,b Rashid Khan,20,11,25,0,2,181.81
+105,Axar Patel,c Miller b Mohammed Shami,36,22,33,2,3,163.63
+106,Aman Hakim Khan,c Pandya b Rashid Khan,8,8,10,0,1,100.00
+107,Kuldeep Yadav,not out,1,1,7,0,0,100.00
+108,Anrich Nortje,not out,4,2,1,1,0,200.00
+109,Wriddhiman Saha ,b Nortje,14,7,9,2,1,200.00
+110,Shubman Gill,b Nortje,14,13,19,3,0,107.69
+111,Sai Sudharsan,not out,62,48,92,4,2,129.16
+112,Hardik Pandya ,c †Abishek Porel b Ahmed,5,4,12,1,0,125.00
+113,Vijay Shankar,lbw b Marsh,29,23,40,3,0,126.08
+114,David Miller,not out,31,16,28,2,2,193.75
+115,Prabhsimran Singh,c Buttler b Holder,60,34,49,7,3,176.47
+116,Shikhar Dhawan ,not out,86,56,113,9,3,153.57
+117,Bhanuka Rajapaksa,retired hurt,1,1,3,0,0,100.00
+118,Jitesh Sharma ,c Parag b Chahal,27,16,31,2,1,168.75
+119,Sikandar Raza,b Ashwin,1,2,2,0,0,50.00
+120,M Shahrukh Khan,c Buttler b Holder,11,10,23,1,0,110.00
+121,Sam Curran,not out,1,2,3,0,0,50.00
+122,Yashasvi Jaiswal,c sub (MW Short) b Arshdeep Singh,11,8,12,1,1,137.50
+123,Ravichandran Ashwin,c S Dhawan b Arshdeep Singh,0,4,23,0,0,0.00
+124,Jos Buttler,c & b Ellis,19,11,24,1,1,172.72
+125,Sanju Samson ,c sub (MW Short) b Ellis,42,25,39,5,1,168.00
+126,Devdutt Padikkal,b Ellis,21,26,47,1,0,80.76
+127,Riyan Parag,c Shahrukh Khan b Ellis,20,12,16,1,2,166.66
+128,Shimron Hetmyer,run out (Shahrukh Khan/Curran),36,18,35,1,3,200.00
+129,Dhruv Jurel,not out,32,15,32,3,2,213.33
+130,Jason Holder,not out,1,1,4,0,0,100.00
+131,Rahmanullah Gurbaz ,c Akash Deep b Sharma,57,44,58,6,3,129.54
+132,Venkatesh Iyer,b Willey,3,7,18,0,0,42.85
+133,Mandeep Singh,b Willey,0,1,2,0,0,0.00
+134,Nitish Rana ,c †Karthik b Bracewell,1,5,17,0,0,20.00
+135,Rinku Singh,c †Karthik b Patel,46,33,64,2,3,139.39
+136,Andre Russell,c Kohli b Sharma,0,1,2,0,0,0.00
+137,Shardul Thakur,c Maxwell b Mohammed Siraj,68,29,45,9,3,234.48
+138,Sunil Narine,not out,0,1,6,0,0,0.00
+139,Umesh Yadav,not out,6,2,2,1,0,300.00
+140,Virat Kohli,b Narine,21,18,20,3,0,116.66
+141,Faf du Plessis ,b Varun,23,12,24,2,2,191.66
+142,Michael Bracewell,c Rana b Thakur,19,18,33,1,1,105.55
+143,Glenn Maxwell,b Varun,5,7,9,1,0,71.42
+144,Harshal Patel,b Varun,0,2,3,0,0,0.00
+145,Shahbaz Ahmed,c Thakur b Narine,1,5,6,0,0,20.00
+146,Dinesh Karthik ,c Varun b Suyash Sharma,9,8,23,1,0,112.50
+147,Anuj Rawat,c Narine b Suyash Sharma,1,5,5,0,0,20.00
+148,David Willey,not out,20,20,28,2,0,100.00
+149,Karn Sharma,c Rana b Suyash Sharma,1,3,11,0,0,33.33
+150,Akash Deep,c & b Varun,17,8,14,2,1,212.50
+151,Anmolpreet Singh ,lbw b Pandya,31,26,38,3,1,119.23
+152,Mayank Agarwal,c Stoinis b Pandya,8,7,14,1,0,114.28
+153,Rahul Tripathi,c Mishra b Yash Thakur,34,41,65,4,0,82.92
+154,Aiden Markram ,b Pandya,0,1,2,0,0,0.00
+155,Harry Brook,st †Pooran b Ravi Bishnoi,3,4,5,0,0,75.00
+156,Washington Sundar,c Hooda b Mishra,16,28,40,0,0,57.14
+157,Abdul Samad,not out,21,10,11,1,2,210.00
+158,Adil Rashid,c Hooda b Mishra,4,3,3,1,0,133.33
+159,Umran Malik,run out (Hooda/Unadkat),0,0,1,0,0,-
+160,Bhuvneshwar Kumar,not out,0,0,4,0,0,-
+161,Kyle Mayers,c Agarwal b Fazalhaq Farooqi,13,14,22,2,0,92.85
+162,KL Rahul ,lbw b Rashid,35,31,74,4,0,112.90
+163,Deepak Hooda,c & b Kumar,7,8,10,0,1,87.50
+164,Krunal Pandya,c †Anmolpreet Singh b Umran Malik,34,23,33,4,1,147.82
+165,Marcus Stoinis,not out,10,13,22,2,0,76.92
+166,Romario Shepherd,lbw b Rashid,0,1,3,0,0,0.00
+167,Nicholas Pooran ,not out,11,6,7,1,1,183.33
+168,Yashasvi Jaiswal,c & b Mukesh Kumar,60,31,47,11,1,193.54
+169,Jos Buttler,c & b Mukesh Kumar,79,51,94,11,1,154.90
+170,Sanju Samson ,c Nortje b Kuldeep Yadav,0,4,7,0,0,0.00
+171,Riyan Parag,b Powell,7,11,16,0,0,63.63
+172,Shimron Hetmyer,not out,39,21,32,1,4,185.71
+173,Dhruv Jurel,not out,8,3,7,0,1,266.66
+174,Prithvi Shaw,c †Samson b Boult,0,3,4,0,0,0.00
+175,David Warner ,lbw b Chahal,65,55,102,7,0,118.18
+176,Manish Pandey,lbw b Boult,0,1,3,0,0,0.00
+177,Rilee Rossouw,c Jaiswal b R Ashwin,14,12,24,2,0,116.66
+178,Lalit Yadav,b Boult,38,24,35,5,0,158.33
+179,Axar Patel,st †Samson b Chahal,2,6,12,0,0,33.33
+180,Rovman Powell,c Hetmyer b R Ashwin,2,2,6,0,0,100.00
+181,Abishek Porel ,c Hetmyer b Chahal,7,9,18,1,0,77.77
+182,Kuldeep Yadav,not out,3,7,9,0,0,42.85
+183,Anrich Nortje,b Sandeep Sharma,0,1,3,0,0,0.00
+184,Mukesh Kumar,not out,1,1,3,0,0,100.00
+185,Rohit Sharma ,b Deshpande,21,13,22,3,1,161.53
+186,Ishan Kishan ,c Pretorius b Jadeja,32,21,36,5,0,152.38
+187,Cameron Green,c & b Jadeja,12,11,23,1,0,109.09
+188,Suryakumar Yadav,c †Dhoni b Santner,1,2,6,0,0,50.00
+189,Tilak Varma,lbw b Jadeja,22,18,26,2,1,122.22
+190,Arshad Khan,lbw b Santner,2,4,4,0,0,50.00
+191,Tim David,c Rahane b Deshpande,31,22,35,1,2,140.90
+192,Tristan Stubbs,c Gaikwad b Magala,5,10,13,0,0,50.00
+193,Hrithik Shokeen,not out,18,13,20,3,0,138.46
+194,Piyush Chawla,not out,5,6,15,0,0,83.33
+195,Devon Conway,b Behrendorff,0,4,4,0,0,0.00
+196,Ruturaj Gaikwad,not out,40,36,80,2,1,111.11
+197,Ajinkya Rahane,c Yadav b Chawla,61,27,33,7,3,225.92
+198,Shivam Dube,b Kartikeya,28,26,28,2,1,107.69
+199,Ambati Rayudu,not out,20,16,16,3,0,125.00
+200,Wriddhiman Saha ,c Jagadeesan b Narine,17,17,24,3,0,100.00
+201,Shubman Gill,c Yadav b Narine,39,31,55,5,0,125.80
+202,Sai Sudharsan,c sub (AS Roy) b Narine,53,38,64,3,2,139.47
+203,Abhinav Manohar,b Suyash Sharma,14,8,13,3,0,175.00
+204,Vijay Shankar,not out,63,24,33,4,5,262.50
+205,David Miller,not out,2,3,13,0,0,66.66
+206,Rahmanullah Gurbaz ,c Yash Dayal b Mohammed Shami,15,12,13,1,1,125.00
+207,Narayan Jagadeesan,c Manohar b Little,6,8,21,1,0,75.00
+208,Venkatesh Iyer,c Shubman Gill b Joseph,83,40,64,8,5,207.50
+209,Nitish Rana ,c Mohammed Shami b Joseph,45,29,42,4,3,155.17
+210,Rinku Singh,not out,48,21,43,1,6,228.57
+211,Andre Russell,c sub (†KS Bharat) b Rashid Khan,1,2,6,0,0,50.00
+212,Sunil Narine,c sub (J Yadav) b Rashid Khan,0,1,2,0,0,0.00
+213,Shardul Thakur,lbw b Rashid Khan,0,1,3,0,0,0.00
+214,Umesh Yadav,not out,5,6,19,0,0,83.33
+215,Prabhsimran Singh,lbw b Kumar,0,1,2,0,0,0.00
+216,Shikhar Dhawan ,not out,99,66,105,12,5,150.00
+217,Matthew Short,lbw b Jansen,1,3,9,0,0,33.33
+218,Jitesh Sharma ,c Markram b Jansen,4,9,13,1,0,44.44
+219,Sam Curran,c Kumar b Markande,22,15,25,3,1,146.66
+220,Sikandar Raza,c Agarwal b Umran Malik,5,6,5,0,0,83.33
+221,M Shahrukh Khan,lbw b Markande,4,3,7,1,0,133.33
+222,Harpreet Brar,b Umran Malik,1,2,5,0,0,50.00
+223,Rahul Chahar,lbw b Markande,0,8,10,0,0,0.00
+224,Nathan Ellis,b Markande,0,5,10,0,0,0.00
+225,Mohit Rathee,not out,1,2,25,0,0,50.00
+226,Harry Brook,b Arshdeep Singh,13,14,18,3,0,92.85
+227,Mayank Agarwal,c Curran b Chahar,21,20,38,3,0,105.00
+228,Rahul Tripathi,not out,74,48,61,10,3,154.16
+229,Aiden Markram ,not out,37,21,41,6,0,176.19
+230,Virat Kohli,c Stoinis b Mishra,61,44,50,4,4,138.63
+231,Faf du Plessis ,not out,79,46,104,5,5,171.73
+232,Glenn Maxwell,b Wood,59,29,54,3,6,203.44
+233,Dinesh Karthik ,not out,1,1,2,0,0,100.00
+234,Kyle Mayers,b Mohammed Siraj,0,3,5,0,0,0.00
+235,KL Rahul ,c Kohli b Mohammed Siraj,18,20,61,1,0,90.00
+236,Deepak Hooda,c †Karthik b Parnell,9,10,19,1,0,90.00
+237,Krunal Pandya,c †Karthik b Parnell,0,2,3,0,0,0.00
+238,Marcus Stoinis,c Shahbaz Ahmed b Sharma,65,30,32,6,5,216.66
+239,Nicholas Pooran ,c Shahbaz Ahmed b Mohammed Siraj,62,19,38,4,7,326.31
+240,Ayush Badoni,hit wicket b Parnell,30,24,45,4,0,125.00
+241,Jaydev Unadkat,c du Plessis b Patel,9,7,19,1,0,128.57
+242,Mark Wood,b Patel,1,2,6,0,0,50.00
+243,Ravi Bishnoi,not out,3,2,8,0,0,150.00
+244,Avesh Khan,not out,0,1,3,0,0,0.00
+245,David Warner ,c Meredith b Behrendorff,51,47,94,6,0,108.51
+246,Prithvi Shaw,c Green b Shokeen,15,10,17,3,0,150.00
+247,Manish Pandey,c Behrendorff b Chawla,26,18,24,5,0,144.44
+248,Yash Dhull,c Wadhera b Meredith,2,4,7,0,0,50.00
+249,Rovman Powell,lbw b Chawla,4,4,6,1,0,100.00
+250,Lalit Yadav,b Chawla,2,4,10,0,0,50.00
+251,Axar Patel,c Arshad Khan b Behrendorff,54,25,29,4,5,216.00
+252,Abishek Porel ,c Green b Behrendorff,1,3,8,0,0,33.33
+253,Kuldeep Yadav,run out (Wadhera),0,1,2,0,0,0.00
+254,Anrich Nortje,b Meredith,5,3,7,1,0,166.66
+255,Mustafizur Rahman,not out,1,1,5,0,0,100.00
+256,Rohit Sharma ,c †Abishek Porel b Mustafizur Rahman,65,45,86,6,4,144.44
+257,Ishan Kishan ,run out (Mukesh Kumar/Lalit Yadav),31,26,32,6,0,119.23
+258,Tilak Varma,c Pandey b Mukesh Kumar,41,29,42,1,4,141.37
+259,Suryakumar Yadav,c Kuldeep Yadav b Mukesh Kumar,0,1,3,0,0,0.00
+260,Tim David,not out,13,11,27,0,1,118.18
+261,Cameron Green,not out,17,8,20,1,1,212.50
+262,Yashasvi Jaiswal,c Dube b Deshpande,10,8,9,2,0,125.00
+263,Jos Buttler,b Ali,52,36,79,1,3,144.44
+264,Devdutt Padikkal,c Conway b Jadeja,38,26,33,5,0,146.15
+265,Sanju Samson ,b Jadeja,0,2,2,0,0,0.00
+266,Ravichandran Ashwin,c Magala b Akash Singh,30,22,29,1,2,136.36
+267,Shimron Hetmyer,not out,30,18,28,2,2,166.66
+268,Dhruv Jurel,c Dube b Akash Singh,4,6,15,0,0,66.66
+269,Jason Holder,c Conway b Deshpande,0,1,6,0,0,0.00
+270,Adam Zampa,run out (Theekshana/†Dhoni),1,1,2,0,0,100.00
+271,Ruturaj Gaikwad,c Jaiswal b Sandeep Sharma,8,10,14,1,0,80.00
+272,Devon Conway,c Jaiswal b Chahal,50,38,82,6,0,131.57
+273,Ajinkya Rahane,lbw b Ashwin,31,19,38,2,1,163.15
+274,Shivam Dube,lbw b Ashwin,8,9,13,1,0,88.88
+275,Moeen Ali,c Sandeep Sharma b Zampa,7,10,12,0,0,70.00
+276,Ambati Rayudu,c Hetmyer b Chahal,1,2,4,0,0,50.00
+277,Ravindra Jadeja,not out,25,15,35,1,2,166.66
+278,MS Dhoni ,not out,32,17,30,1,3,188.23
+279,Prabhsimran Singh,c Rashid Khan b Mohammed Shami,0,2,3,0,0,0.00
+280,Shikhar Dhawan ,c Joseph b Little,8,8,20,2,0,100.00
+281,Matthew Short,b Rashid Khan,36,24,38,6,1,150.00
+282,Bhanuka Rajapaksa,c Shubman Gill b Joseph,20,26,73,1,0,76.92
+283,Jitesh Sharma ,c †Saha b Sharma,25,23,29,5,0,108.69
+284,Sam Curran,c Shubman Gill b Sharma,22,22,33,1,1,100.00
+285,M Shahrukh Khan,run out (Miller/†Saha),22,9,19,1,2,244.44
+286,Harpreet Brar,not out,8,5,12,0,1,160.00
+287,Rishi Dhawan,run out (†Saha),1,1,4,0,0,100.00
+288,Wriddhiman Saha ,c Short b Rabada,30,19,-,5,0,157.89
+289,Shubman Gill,b Curran,67,49,-,7,1,136.73
+290,Sai Sudharsan,c Prabhsimran Singh b Arshdeep Singh,19,20,-,2,0,95.00
+291,Hardik Pandya ,c Curran b Harpreet Brar,8,11,-,1,0,72.72
+292,David Miller,not out,17,18,-,1,0,94.44
+293,Rahul Tewatia,not out,5,2,-,1,0,250.00
+294,Harry Brook,not out,100,55,99,12,3,181.81
+295,Mayank Agarwal,c Varun b Russell,9,13,22,0,0,69.23
+296,Rahul Tripathi,c †Rahmanullah Gurbaz b Russell,9,4,6,2,0,225.00
+297,Aiden Markram ,c Russell b Varun,50,26,32,2,5,192.30
+298,Abhishek Sharma,c Thakur b Russell,32,17,28,3,2,188.23
+299,Heinrich Klaasen ,not out,16,6,13,2,1,266.66
+300,Rahmanullah Gurbaz ,c Umran Malik b Kumar,0,3,3,0,0,0.00
+301,Narayan Jagadeesan,c sub (GD Phillips) b Markande,36,21,41,5,1,171.42
+302,Venkatesh Iyer,c Markram b Jansen,10,11,15,2,0,90.90
+303,Sunil Narine,c Markram b Jansen,0,1,2,0,0,0.00
+304,Nitish Rana ,c Washington Sundar b Natarajan,75,41,67,5,6,182.92
+305,Andre Russell,c Jansen b Markande,3,6,10,0,0,50.00
+306,Rinku Singh,not out,58,31,51,4,4,187.09
+307,Shardul Thakur,c Washington Sundar b Umran Malik,12,7,15,2,0,171.42
+308,Umesh Yadav,not out,1,1,4,0,0,100.00
+309,Virat Kohli,c Dhull b Lalit Yadav,50,34,46,6,1,147.05
+310,Faf du Plessis ,c Aman Hakim Khan b Marsh,22,16,21,3,1,137.50
+311,Mahipal Lomror,c †Abishek Porel b Marsh,26,18,38,0,2,144.44
+312,Glenn Maxwell,c Warner b Kuldeep Yadav,24,14,25,0,3,171.42
+313,Harshal Patel,c †Abishek Porel b Patel,6,4,9,0,1,150.00
+314,Shahbaz Ahmed,not out,20,12,31,3,0,166.66
+315,Dinesh Karthik ,c Lalit Yadav b Kuldeep Yadav,0,1,2,0,0,0.00
+316,Anuj Rawat,not out,15,22,26,1,0,68.18
+317,David Warner ,c Kohli b Vyshak,19,13,33,4,0,146.15
+318,Prithvi Shaw,run out (Anuj Rawat),0,2,4,0,0,0.00
+319,Mitchell Marsh,c Kohli b Parnell,0,4,7,0,0,0.00
+320,Yash Dhull,lbw b Mohammed Siraj,1,4,6,0,0,25.00
+321,Manish Pandey,lbw b de Silva,50,38,59,5,1,131.57
+322,Abishek Porel ,c Parnell b Patel,5,8,17,0,0,62.50
+323,Axar Patel,c Mohammed Siraj b Vyshak,21,14,18,3,0,150.00
+324,Aman Hakim Khan,c Kohli b Mohammed Siraj,18,10,27,1,1,180.00
+325,Lalit Yadav,c Maxwell b Vyshak,4,7,10,0,0,57.14
+326,Anrich Nortje,not out,23,14,19,4,0,164.28
+327,Kuldeep Yadav,not out,7,6,10,1,0,116.66
+328,KL Rahul ,c sub (NT Ellis) b Arshdeep Singh,74,56,101,8,1,132.14
+329,Kyle Mayers,c Harpreet Singh b Harpreet Brar,29,23,34,1,3,126.08
+330,Deepak Hooda,lbw b Sikandar Raza,2,3,7,0,0,66.66
+331,Krunal Pandya,c Shahrukh Khan b Rabada,18,17,30,2,0,105.88
+332,Nicholas Pooran ,c Shahrukh Khan b Rabada,0,1,5,0,0,0.00
+333,Marcus Stoinis,c †Sharma b Curran,15,11,22,0,2,136.36
+334,Ayush Badoni,not out,5,6,17,0,0,83.33
+335,Krishnappa Gowtham,c Sikandar Raza b Curran,1,2,7,0,0,50.00
+336,Yudhvir Singh,c Shahrukh Khan b Curran,0,1,3,0,0,0.00
+337,Ravi Bishnoi,not out,3,1,3,0,0,300.00
+338,Atharva Taide,c Avesh Khan b Yudhvir Singh,0,3,3,0,0,0.00
+339,Prabhsimran Singh,b Yudhvir Singh,4,4,12,1,0,100.00
+340,Matthew Short,c Stoinis b Gowtham,34,22,30,5,1,154.54
+341,Harpreet Singh,c sub (PN Mankad) b Pandya,22,22,41,3,0,100.00
+342,Sikandar Raza,c Stoinis b Ravi Bishnoi,57,41,62,4,3,139.02
+343,Sam Curran ,c Pandya b Ravi Bishnoi,6,6,15,1,0,100.00
+344,Jitesh Sharma ,c Rahul b Wood,2,4,10,0,0,50.00
+345,M Shahrukh Khan,not out,23,10,26,1,2,230.00
+346,Harpreet Brar,c †Pooran b Wood,6,4,10,1,0,150.00
+347,Kagiso Rabada,not out,0,1,4,0,0,0.00
+348,Rahmanullah Gurbaz ,c Jansen b Chawla,8,12,39,0,0,66.66
+349,Narayan Jagadeesan,c Shokeen b Green,0,5,12,0,0,0.00
+350,Venkatesh Iyer,c Jansen b Meredith,104,51,82,6,9,203.92
+351,Nitish Rana ,c sub (Ramandeep Singh) b Shokeen,5,10,13,0,0,50.00
+352,Shardul Thakur,c Tilak Varma b Shokeen,13,11,23,1,0,118.18
+353,Rinku Singh,c Wadhera b Jansen,18,18,32,2,0,100.00
+354,Andre Russell,not out,21,11,18,3,1,190.90
+355,Sunil Narine,not out,2,2,9,0,0,100.00
+356,Rohit Sharma,c Yadav b Suyash Sharma,20,13,25,1,2,153.84
+357,Ishan Kishan ,b Varun,58,25,39,5,5,232.00
+358,Suryakumar Yadav ,c †Rahmanullah Gurbaz b Thakur,43,25,63,4,3,172.00
+359,Tilak Varma,b Suyash Sharma,30,25,32,3,1,120.00
+360,Tim David,not out,24,13,27,1,2,184.61
+361,Nehal Wadhera,c †Rahmanullah Gurbaz b Ferguson,6,4,7,1,0,150.00
+362,Cameron Green,not out,1,1,3,0,0,100.00
+363,Wriddhiman Saha ,c & b Boult,4,3,4,1,0,133.33
+364,Shubman Gill,c Buttler b Sandeep Sharma,45,34,70,4,1,132.35
+365,Sai Sudharsan,run out (Buttler/†Samson),20,19,23,2,0,105.26
+366,Hardik Pandya ,c Jaiswal b Chahal,28,19,22,3,1,147.36
+367,David Miller,c Hetmyer b Sandeep Sharma,46,30,43,3,2,153.33
+368,Abhinav Manohar,c Padikkal b Zampa,27,13,17,0,3,207.69
+369,Rahul Tewatia,not out,1,1,10,0,0,100.00
+370,Rashid Khan,run out (Buttler/Sandeep Sharma),1,1,4,0,0,100.00
+371,Alzarri Joseph,not out,0,0,2,0,0,-
+372,Yashasvi Jaiswal,c Shubman Gill b Pandya,1,7,9,0,0,14.28
+373,Jos Buttler,b Mohammed Shami,0,5,14,0,0,0.00
+374,Devdutt Padikkal,c Sharma b Rashid Khan,26,25,38,2,2,104.00
+375,Sanju Samson ,c Miller b Noor Ahmad,60,32,61,3,6,187.50
+376,Riyan Parag,c Miller b Rashid Khan,5,7,10,0,0,71.42
+377,Shimron Hetmyer,not out,56,26,44,2,5,215.38
+378,Dhruv Jurel,c Sharma b Mohammed Shami,18,10,19,2,1,180.00
+379,Ravichandran Ashwin,c Tewatia b Mohammed Shami,10,3,4,1,1,333.33
+380,Trent Boult,not out,0,1,3,0,0,0.00
+381,Ruturaj Gaikwad,c Parnell b Mohammed Siraj,3,6,12,0,0,50.00
+382,Devon Conway,b Patel,83,45,73,6,6,184.44
+383,Ajinkya Rahane,b de Silva,37,20,33,3,2,185.00
+384,Shivam Dube,c Mohammed Siraj b Parnell,52,27,35,2,5,192.59
+385,Ambati Rayudu,c †Karthik b Vyshak,14,6,11,1,1,233.33
+386,Moeen Ali,not out,19,9,24,0,2,211.11
+387,Ravindra Jadeja,c Prabhudessai b Maxwell,10,8,17,0,1,125.00
+388,MS Dhoni ,not out,1,1,2,0,0,100.00
+389,Virat Kohli,b Akash Singh,6,4,3,1,0,150.00
+390,Faf du Plessis ,c †Dhoni b Ali,62,33,64,5,4,187.87
+391,Mahipal Lomror,c Gaikwad b Deshpande,0,5,7,0,0,0.00
+392,Glenn Maxwell,c †Dhoni b Theekshana,76,36,46,3,8,211.11
+393,Shahbaz Ahmed,c Gaikwad b Pathirana,12,10,29,0,1,120.00
+394,Dinesh Karthik ,c Theekshana b Deshpande,28,14,15,3,1,200.00
+395,Suyash Prabhudessai,c Jadeja b Pathirana,19,11,20,0,2,172.72
+396,Wayne Parnell,c Dube b Deshpande,2,5,7,0,0,40.00
+397,Wanindu Hasaranga,not out,2,2,10,0,0,100.00
+398,Rohit Sharma ,c Markram b Natarajan,28,18,22,6,0,155.55
+399,Ishan Kishan ,c Markram b Jansen,38,31,51,3,2,122.58
+400,Cameron Green,not out,64,40,75,6,2,160.00
+401,Suryakumar Yadav,c Markram b Jansen,7,3,6,0,1,233.33
+402,Tilak Varma,c Agarwal b Kumar,37,17,24,2,4,217.64
+403,Tim David,run out (Abhishek Sharma/Natarajan),16,11,19,2,0,145.45
+404,Harry Brook,c Yadav b Behrendorff,9,7,8,2,0,128.57
+405,Mayank Agarwal,c David b Meredith,48,41,76,4,1,117.07
+406,Rahul Tripathi,c †Ishan Kishan b Behrendorff,7,5,13,1,0,140.00
+407,Aiden Markram ,c Shokeen b Green,22,17,26,1,1,129.41
+408,Abhishek Sharma,c David b Chawla,1,2,5,0,0,50.00
+409,Heinrich Klaasen ,c David b Chawla,36,16,24,4,2,225.00
+410,Abdul Samad,run out (Shokeen/†Ishan Kishan),9,12,34,1,0,75.00
+411,Marco Jansen,c David b Meredith,13,6,11,3,0,216.66
+412,Washington Sundar,run out (David),10,6,8,2,0,166.66
+413,Bhuvneshwar Kumar,c Sharma b Tendulkar,2,5,16,0,0,40.00
+414,Mayank Markande,not out,2,2,4,0,0,100.00
+415,KL Rahul ,c Buttler b Holder,39,32,51,4,1,121.87
+416,Kyle Mayers,b Ashwin,51,42,69,4,3,121.42
+417,Ayush Badoni,b Boult,1,4,6,0,0,25.00
+418,Deepak Hooda,c Hetmyer b Ashwin,2,4,7,0,0,50.00
+419,Marcus Stoinis,c †Samson b Sandeep Sharma,21,16,31,2,0,131.25
+420,Nicholas Pooran ,run out (†Samson),29,20,27,2,1,145.00
+421,Krunal Pandya,not out,4,2,4,1,0,200.00
+422,Yudhvir Singh,run out (Hetmyer/†Samson),1,1,2,0,0,100.00
+423,Yashasvi Jaiswal,c Avesh Khan b Stoinis,44,35,60,4,2,125.71
+424,Jos Buttler,c Ravi Bishnoi b Stoinis,40,41,73,4,1,97.56
+425,Sanju Samson ,run out (Mishra/†Pooran),2,4,8,0,0,50.00
+426,Devdutt Padikkal,c †Pooran b Avesh Khan,26,21,36,4,0,123.80
+427,Shimron Hetmyer,c Rahul b Avesh Khan,2,5,12,0,0,40.00
+428,Riyan Parag,not out,15,12,24,1,1,125.00
+429,Dhruv Jurel,c Hooda b Avesh Khan,0,1,2,0,0,0.00
+430,Ravichandran Ashwin,not out,3,2,3,0,0,150.00
+431,Virat Kohli ,c †Sharma b Harpreet Brar,59,47,72,5,1,125.53
+432,Faf du Plessis,c Curran b Ellis,84,56,78,5,5,150.00
+433,Glenn Maxwell,c Taide b Harpreet Brar,0,1,1,0,0,0.00
+434,Dinesh Karthik ,c Taide b Arshdeep Singh,7,5,16,1,0,140.00
+435,Mahipal Lomror,not out,7,9,15,1,0,77.77
+436,Shahbaz Ahmed,not out,5,3,5,0,0,166.66
+437,Atharva Taide,lbw b Mohammed Siraj,4,2,5,1,0,200.00
+438,Prabhsimran Singh,b Parnell,46,30,59,3,4,153.33
+439,Matthew Short,b de Silva,8,7,9,0,1,114.28
+440,Liam Livingstone,lbw b Mohammed Siraj,2,4,7,0,0,50.00
+441,Harpreet Singh,run out (Mohammed Siraj),13,9,12,1,1,144.44
+442,Sam Curran ,run out (de Silva),10,12,18,1,0,83.33
+443,Jitesh Sharma ,c Shahbaz Ahmed b Patel,41,27,48,2,3,151.85
+444,M Shahrukh Khan,st †Karthik b de Silva,7,5,9,0,1,140.00
+445,Harpreet Brar,b Mohammed Siraj,13,13,22,1,0,100.00
+446,Nathan Ellis,b Mohammed Siraj,1,2,5,0,0,50.00
+447,Arshdeep Singh,not out,0,0,3,0,0,-
+448,Jason Roy,c Aman Hakim Khan b Kuldeep Yadav,43,39,74,5,1,110.25
+449,Litton Das ,c Lalit Yadav b Mukesh Kumar,4,4,13,1,0,100.00
+450,Venkatesh Iyer,c Marsh b Nortje,0,2,9,0,0,0.00
+451,Nitish Rana ,c Mukesh Kumar b Sharma,4,7,11,1,0,57.14
+452,Mandeep Singh,b Patel,12,11,16,0,1,109.09
+453,Rinku Singh,c Lalit Yadav b Patel,6,8,9,1,0,75.00
+454,Sunil Narine,c Warner b Sharma,4,6,6,1,0,66.66
+455,Andre Russell,not out,38,31,49,1,4,122.58
+456,Anukul Roy,lbw b Kuldeep Yadav,0,1,2,0,0,0.00
+457,Umesh Yadav,c & b Nortje,3,5,5,0,0,60.00
+458,Varun Chakravarthy,run out (sub [YV Dhull]/†Salt),1,6,28,0,0,16.66
+459,David Warner ,lbw b Varun,57,41,58,11,0,139.02
+460,Prithvi Shaw,b Varun,13,11,22,2,0,118.18
+461,Mitchell Marsh,c sub (D Wiese) b Rana,2,9,14,0,0,22.22
+462,Phil Salt ,c & b AS Roy,5,3,6,1,0,166.66
+463,Manish Pandey,c Singh b AS Roy,21,23,34,2,0,91.30
+464,Axar Patel,not out,19,22,37,1,0,86.36
+465,Aman Hakim Khan,b Rana,0,2,4,0,0,0.00
+466,Lalit Yadav,not out,4,7,21,0,0,57.14
+467,Harry Brook,c Gaikwad b Akash Singh,18,13,23,3,0,138.46
+468,Abhishek Sharma,c Rahane b Jadeja,34,26,43,3,1,130.76
+469,Rahul Tripathi,c Akash Singh b Jadeja,21,21,31,1,1,100.00
+470,Aiden Markram ,c †Dhoni b Theekshana,12,12,15,1,0,100.00
+471,Heinrich Klaasen ,c Gaikwad b Pathirana,17,16,27,1,0,106.25
+472,Mayank Agarwal,st †Dhoni b Jadeja,2,4,6,0,0,50.00
+473,Marco Jansen,not out,17,22,29,1,0,77.27
+474,Washington Sundar,run out (†Dhoni),9,6,14,1,0,150.00
+475,Ruturaj Gaikwad,run out (Umran Malik),35,30,50,2,0,116.66
+476,Devon Conway,not out,77,57,84,12,1,135.08
+477,Ajinkya Rahane,c Markram b Markande,9,10,15,0,0,90.00
+478,Ambati Rayudu,b Markande,9,9,11,1,0,100.00
+479,Moeen Ali,not out,6,6,9,1,0,100.00
+480,Wriddhiman Saha ,c Hooda b Pandya,47,37,51,6,0,127.02
+481,Shubman Gill,c Ravi Bishnoi b Pandya,0,2,9,0,0,0.00
+482,Hardik Pandya ,c Rahul b Stoinis,66,50,89,2,4,132.00
+483,Abhinav Manohar,c Naveen-ul-Haq b Mishra,3,5,7,0,0,60.00
+484,Vijay Shankar,b Naveen-ul-Haq,10,12,17,1,0,83.33
+485,David Miller,c Hooda b Stoinis,6,12,28,0,0,50.00
+486,Rahul Tewatia,not out,2,2,4,0,0,100.00
+487,KL Rahul ,c Yadav b Sharma,68,61,94,8,0,111.47
+488,Kyle Mayers,b Rashid Khan,24,19,31,2,1,126.31
+489,Krunal Pandya,st †Saha b Noor Ahmad,23,23,36,2,1,100.00
+490,Nicholas Pooran ,c Pandya b Noor Ahmad,1,7,10,0,0,14.28
+491,Ayush Badoni,run out (Shankar/Sharma),8,6,22,0,0,133.33
+492,Marcus Stoinis,c Miller b Sharma,0,1,2,0,0,0.00
+493,Deepak Hooda,run out (Rashid Khan/†Saha),2,2,4,0,0,100.00
+494,Prerak Mankad,not out,0,0,4,0,0,-
+495,Ravi Bishnoi,not out,0,1,1,0,0,0.00
+496,Matthew Short,c Chawla b Green,11,10,15,2,0,110.00
+497,Prabhsimran Singh,lbw b Tendulkar,26,17,37,1,2,152.94
+498,Atharva Taide,b Chawla,29,17,38,3,1,170.58
+499,Liam Livingstone,st †Ishan Kishan b Chawla,10,12,12,0,1,83.33
+500,Harpreet Singh,b Green,41,28,47,4,2,146.42
+501,Sam Curran ,c & b Archer,55,29,51,5,4,189.65
+502,Jitesh Sharma ,b Behrendorff,25,7,12,0,4,357.14
+503,M Shahrukh Khan,not out,0,0,6,0,0,-
+504,Harpreet Brar,run out (Tilak Varma/†Ishan Kishan),5,2,3,1,0,250.00
+505,Rohit Sharma ,c & b Livingstone,44,27,42,4,3,162.96
+506,Ishan Kishan ,c Short b Arshdeep Singh,1,4,7,0,0,25.00
+507,Cameron Green,c Curran b Ellis,67,43,64,6,3,155.81
+508,Suryakumar Yadav,c Taide b Arshdeep Singh,57,26,42,7,3,219.23
+509,Tim David,not out,25,13,34,0,2,192.30
+510,Tilak Varma,b Arshdeep Singh,3,4,14,0,0,75.00
+511,Nehal Wadhera,b Arshdeep Singh,0,1,2,0,0,0.00
+512,Jofra Archer,not out,1,2,4,0,0,50.00
+513,Virat Kohli ,lbw b Boult,0,1,2,0,0,0.00
+514,Faf du Plessis,run out (Jaiswal),62,39,71,8,2,158.97
+515,Shahbaz Ahmed,c Jaiswal b Boult,2,4,10,0,0,50.00
+516,Glenn Maxwell,c Holder b Ashwin,77,44,66,6,4,175.00
+517,Mahipal Lomror,c Padikkal b Chahal,8,6,16,1,0,133.33
+518,Dinesh Karthik ,c Buttler b Sandeep Sharma,16,13,28,2,0,123.07
+519,Suyash Prabhudessai,run out (Jaiswal/†Samson),0,2,5,0,0,0.00
+520,Wanindu Hasaranga,run out (†Samson/Sandeep Sharma),6,7,14,0,0,85.71
+521,David Willey,not out,4,2,8,1,0,200.00
+522,Vijaykumar Vyshak,c Hetmyer b Sandeep Sharma,0,1,2,0,0,0.00
+523,Mohammed Siraj,not out,1,1,4,0,0,100.00
+524,Yashasvi Jaiswal,c Kohli b Patel,47,37,63,5,2,127.02
+525,Jos Buttler,b Mohammed Siraj,0,2,4,0,0,0.00
+526,Devdutt Padikkal,c Kohli b Willey,52,34,48,7,1,152.94
+527,Sanju Samson ,c Shahbaz Ahmed b Patel,22,15,22,2,1,146.66
+528,Shimron Hetmyer,run out (Prabhudessai),3,9,30,0,0,33.33
+529,Dhruv Jurel,not out,34,16,35,2,2,212.50
+530,Ravichandran Ashwin,c Prabhudessai b Patel,12,6,14,2,0,200.00
+531,Abdul Basith,not out,1,1,2,0,0,100.00
+532,Ruturaj Gaikwad,b Suyash Sharma,35,20,35,2,3,175.00
+533,Devon Conway,c Wiese b Varun,56,40,56,4,3,140.00
+534,Ajinkya Rahane,not out,71,29,70,6,5,244.82
+535,Shivam Dube,c Roy b Khejroliya,50,21,31,2,5,238.09
+536,Ravindra Jadeja,c Singh b Khejroliya,18,8,13,0,2,225.00
+537,MS Dhoni ,not out,2,3,4,0,0,66.66
+538,Narayan Jagadeesan ,c Jadeja b Deshpande,1,3,9,0,0,33.33
+539,Sunil Narine,b Akash Singh,0,3,4,0,0,0.00
+540,Venkatesh Iyer,lbw b Ali,20,20,35,2,1,100.00
+541,Nitish Rana ,c Gaikwad b Jadeja,27,20,38,4,1,135.00
+542,Jason Roy,b Theekshana,61,26,35,5,5,234.61
+543,Rinku Singh,not out,53,33,62,3,4,160.60
+544,Andre Russell,c Dube b Pathirana,9,6,14,0,1,150.00
+545,David Wiese,lbw b Deshpande,1,2,6,0,0,50.00
+546,Umesh Yadav,c Conway b Theekshana,4,4,8,0,0,100.00
+547,Varun Chakravarthy,not out,0,3,9,0,0,0.00
+548,David Warner ,c Brook b Washington Sundar,21,20,39,2,1,105.00
+549,Phil Salt ,c †Klaasen b Kumar,0,1,4,0,0,0.00
+550,Mitchell Marsh,lbw b Natarajan,25,15,22,5,0,166.66
+551,Sarfaraz Khan,c Kumar b Washington Sundar,10,9,16,0,1,111.11
+552,Manish Pandey,run out (Washington Sundar/†Klaasen),34,27,53,2,0,125.92
+553,Aman Hakim Khan,c Abhishek Sharma b Washington Sundar,4,2,3,1,0,200.00
+554,Axar Patel,b Kumar,34,34,43,4,0,100.00
+555,Ripal Patel,run out (†Klaasen),5,6,13,0,0,83.33
+556,Anrich Nortje,run out (Umran Malik/†Klaasen),2,2,7,0,0,100.00
+557,Kuldeep Yadav,not out,4,3,5,1,0,133.33
+558,Ishant Sharma,not out,1,1,2,0,0,100.00
+559,Harry Brook,b Nortje,7,14,26,0,0,50.00
+560,Mayank Agarwal,c Aman Hakim Khan b AR Patel,49,39,56,7,0,125.64
+561,Rahul Tripathi,c †Salt b Sharma,15,21,37,0,0,71.42
+562,Abhishek Sharma,c & b Kuldeep Yadav,5,5,13,0,0,100.00
+563,Aiden Markram ,b AR Patel,3,5,11,0,0,60.00
+564,Heinrich Klaasen ,c Aman Hakim Khan b Nortje,31,19,25,3,1,163.15
+565,Washington Sundar,not out,24,15,30,3,0,160.00
+566,Marco Jansen,not out,2,3,11,0,0,66.66
+567,Wriddhiman Saha ,c †Ishan Kishan b Tendulkar,4,7,13,0,0,57.14
+568,Shubman Gill,c Yadav b Kartikeya,56,34,57,7,1,164.70
+569,Hardik Pandya ,c Yadav b Chawla,13,14,23,1,0,92.85
+570,Vijay Shankar,c David b Chawla,19,16,27,1,1,118.75
+571,David Miller,c Yadav b Behrendorff,46,22,47,2,4,209.09
+572,Abhinav Manohar,c Behrendorff b Meredith,42,21,30,3,3,200.00
+573,Rahul Tewatia,not out,20,5,13,0,3,400.00
+574,Rashid Khan,not out,2,1,2,0,0,200.00
+575,Rohit Sharma ,c & b Pandya,2,8,10,0,0,25.00
+576,Ishan Kishan ,c Little b Rashid Khan,13,21,35,1,0,61.90
+577,Cameron Green,b Noor Ahmad,33,26,43,0,3,126.92
+578,Tilak Varma,lbw b Rashid Khan,2,3,6,0,0,66.66
+579,Suryakumar Yadav,c & b Noor Ahmad,23,12,27,3,1,191.66
+580,Tim David,c Manohar b Noor Ahmad,0,2,3,0,0,0.00
+581,Nehal Wadhera,c Mohammed Shami b Sharma,40,21,38,3,3,190.47
+582,Piyush Chawla,run out (†Saha/Sharma),18,12,22,1,1,150.00
+583,Arjun Tendulkar,c Little b Sharma,13,9,13,0,1,144.44
+584,Jason Behrendorff,not out,3,4,12,0,0,75.00
+585,Riley Meredith,not out,0,2,2,0,0,0.00
+586,Jason Roy,b Vyshak,56,29,50,4,5,193.10
+587,Narayan Jagadeesan ,c Willey b Vyshak,27,29,44,4,0,93.10
+588,Venkatesh Iyer,c Maxwell b de Silva,31,26,44,3,0,119.23
+589,Nitish Rana ,c Vyshak b de Silva,48,21,28,3,4,228.57
+590,Andre Russell,b Mohammed Siraj,1,2,10,0,0,50.00
+591,Rinku Singh,not out,18,10,12,2,1,180.00
+592,David Wiese,not out,12,3,5,0,2,400.00
+593,Virat Kohli ,c Iyer b Russell,54,37,59,6,0,145.94
+594,Faf du Plessis,c Singh b Suyash Sharma,17,7,12,1,2,242.85
+595,Shahbaz Ahmed,lbw b Suyash Sharma,2,5,11,0,0,40.00
+596,Glenn Maxwell,c Wiese b Varun,5,4,6,1,0,125.00
+597,Mahipal Lomror,c Russell b Varun,34,18,26,1,3,188.88
+598,Dinesh Karthik ,c Singh b Varun,22,18,33,1,1,122.22
+599,Suyash Prabhudessai,run out (sub [AS Roy]/Suyash Sharma),10,9,15,1,0,111.11
+600,Wanindu Hasaranga,c sub (AS Roy) b Russell,5,4,11,0,0,125.00
+601,David Willey,not out,11,10,16,1,0,110.00
+602,Vijaykumar Vyshak,not out,13,8,12,0,1,162.50
+603,Yashasvi Jaiswal,c Rahane b Deshpande,77,43,67,8,4,179.06
+604,Jos Buttler,c Dube b Jadeja,27,21,40,4,0,128.57
+605,Sanju Samson ,c Gaikwad b Deshpande,17,17,21,1,0,100.00
+606,Shimron Hetmyer,b Theekshana,8,10,16,0,0,80.00
+607,Dhruv Jurel,run out (†Dhoni),34,15,32,3,2,226.66
+608,Devdutt Padikkal,not out,27,13,22,5,0,207.69
+609,Ravichandran Ashwin,not out,1,1,3,0,0,100.00
+610,Ruturaj Gaikwad,c Padikkal b Zampa,47,29,45,5,1,162.06
+611,Devon Conway,c Sandeep Sharma b Zampa,8,16,28,1,0,50.00
+612,Ajinkya Rahane,c Buttler b Ashwin,15,13,23,0,0,115.38
+613,Shivam Dube,c Buttler b Yadav,52,33,52,2,4,157.57
+614,Ambati Rayudu,c Holder b Ashwin,0,2,4,0,0,0.00
+615,Moeen Ali,c †Samson b Zampa,23,12,21,2,2,191.66
+616,Ravindra Jadeja,not out,23,15,27,3,0,153.33
+617,KL Rahul ,c Shahrukh Khan b Rabada,12,9,19,1,1,133.33
+618,Kyle Mayers,c Dhawan b Rabada,54,24,31,7,4,225.00
+619,Ayush Badoni,c Chahar b Livingstone,43,24,49,3,3,179.16
+620,Marcus Stoinis,c †Sharma b Curran,72,40,63,6,5,180.00
+621,Nicholas Pooran ,lbw b Arshdeep Singh,45,19,36,7,1,236.84
+622,Deepak Hooda,not out,11,6,12,2,0,183.33
+623,Krunal Pandya,not out,5,2,3,1,0,250.00
+624,Prabhsimran Singh,c sub (DR Sams) b Naveen-ul-Haq,9,13,24,2,0,69.23
+625,Shikhar Dhawan ,c Pandya b Stoinis,1,2,5,0,0,50.00
+626,Atharva Taide,c & b Ravi Bishnoi,66,36,67,8,2,183.33
+627,Sikandar Raza,c Pandya b Yash Thakur,36,22,41,4,1,163.63
+628,Liam Livingstone,lbw b Ravi Bishnoi,23,14,19,2,1,164.28
+629,Sam Curran,c Badoni b Naveen-ul-Haq,21,11,24,2,1,190.90
+630,Jitesh Sharma ,c Rahul b Yash Thakur,24,10,17,0,3,240.00
+631,M Shahrukh Khan,c Ravi Bishnoi b Yash Thakur,6,9,18,0,0,66.66
+632,Rahul Chahar,c Hooda b Yash Thakur,0,1,3,0,0,0.00
+633,Kagiso Rabada,b Naveen-ul-Haq,0,1,5,0,0,0.00
+634,Arshdeep Singh,not out,2,2,6,0,0,100.00
+635,Narayan Jagadeesan ,lbw b Mohammed Shami,19,15,16,4,0,126.66
+636,Rahmanullah Gurbaz,c Rashid Khan b Noor Ahmad,81,39,80,5,7,207.69
+637,Shardul Thakur,c Sharma b Mohammed Shami,0,4,13,0,0,0.00
+638,Venkatesh Iyer,lbw b Little,11,14,27,0,0,78.57
+639,Nitish Rana ,c Tewatia b Little,4,3,5,1,0,133.33
+640,Rinku Singh,c Little b Noor Ahmad,19,20,33,0,1,95.00
+641,Andre Russell,c Tewatia b Mohammed Shami,34,19,22,2,3,178.94
+642,David Wiese,not out,8,6,13,0,1,133.33
+643,Wriddhiman Saha ,c Harshit Rana b Russell,10,10,21,1,0,100.00
+644,Shubman Gill,c Russell b Narine,49,35,53,8,0,140.00
+645,Hardik Pandya ,lbw b Harshit Rana,26,20,28,2,1,130.00
+646,Vijay Shankar,not out,51,24,37,2,5,212.50
+647,David Miller,not out,32,18,32,2,2,177.77
+648,Abhishek Sharma,c Warner b AR Patel,67,36,62,12,1,186.11
+649,Mayank Agarwal,c †Salt b Sharma,5,6,15,1,0,83.33
+650,Rahul Tripathi,c Pandey b Marsh,10,6,12,0,1,166.66
+651,Aiden Markram ,c AR Patel b Marsh,8,13,21,0,0,61.53
+652,Harry Brook,c AR Patel b Marsh,0,2,3,0,0,0.00
+653,Heinrich Klaasen ,not out,53,27,50,2,4,196.29
+654,Abdul Samad,c †Salt b Marsh,28,21,21,1,2,133.33
+655,Akeal Hosein,not out,16,10,17,1,1,160.00
+656,David Warner ,b Kumar,0,2,2,0,0,0.00
+657,Phil Salt ,c & b Markande,59,35,53,9,0,168.57
+658,Mitchell Marsh,c Markram b Hosein,63,39,63,1,6,161.53
+659,Manish Pandey,st †Klaasen b Abhishek Sharma,1,3,5,0,0,33.33
+660,Priyam Garg,b Markande,12,9,15,1,0,133.33
+661,Sarfaraz Khan,b Natarajan,9,10,19,1,0,90.00
+662,Axar Patel,not out,29,14,24,1,2,207.14
+663,Ripal Patel,not out,11,8,16,1,0,137.50
+664,Ruturaj Gaikwad,st †Sharma b Sikandar Raza,37,31,47,4,1,119.35
+665,Devon Conway,not out,92,52,103,16,1,176.92
+666,Shivam Dube,c Shahrukh Khan b Arshdeep Singh,28,17,23,1,2,164.70
+667,Moeen Ali,st †Sharma b Chahar,10,6,12,2,0,166.66
+668,Ravindra Jadeja,c Livingstone b Curran,12,10,15,0,0,120.00
+669,MS Dhoni ,not out,13,4,8,0,2,325.00
+670,Prabhsimran Singh,st †Dhoni b Jadeja,42,24,41,4,2,175.00
+671,Shikhar Dhawan ,c Pathirana b Deshpande,28,15,24,4,1,186.66
+672,Atharva Taide,c & b Jadeja,13,17,26,0,0,76.47
+673,Liam Livingstone,c Gaikwad b Deshpande,40,24,38,1,4,166.66
+674,Sam Curran,b Pathirana,29,20,36,1,1,145.00
+675,Jitesh Sharma ,c sub (SK Rasheed) b Deshpande,21,10,21,2,1,210.00
+676,M Shahrukh Khan,not out,2,3,21,0,0,66.66
+677,Sikandar Raza,not out,13,7,9,1,0,185.71
+678,Yashasvi Jaiswal,c & b Arshad Khan,124,62,112,16,8,200.00
+679,Jos Buttler,c sub (Ramandeep Singh) b Chawla,18,19,40,2,1,94.73
+680,Sanju Samson ,c Tilak Varma b Arshad Khan,14,10,15,1,1,140.00
+681,Devdutt Padikkal,b Chawla,2,4,6,0,0,50.00
+682,Jason Holder,c David b Archer,11,9,18,0,1,122.22
+683,Shimron Hetmyer,c Yadav b Arshad Khan,8,9,14,0,1,88.88
+684,Dhruv Jurel,c Tilak Varma b Meredith,2,3,6,0,0,66.66
+685,Ravichandran Ashwin,not out,8,5,20,1,0,160.00
+686,Trent Boult,not out,0,0,4,0,0,-
+687,Rohit Sharma ,b Sandeep Sharma,3,5,12,0,0,60.00
+688,Ishan Kishan ,c Boult b Ashwin,28,23,44,4,0,121.73
+689,Cameron Green,c Boult b Ashwin,44,26,47,4,2,169.23
+690,Suryakumar Yadav,c Sandeep Sharma b Boult,55,29,49,8,2,189.65
+691,Tilak Varma,not out,29,21,63,3,1,138.09
+692,Tim David,not out,45,14,27,2,5,321.42
+693,Virat Kohli,st †Pooran b Ravi Bishnoi,31,30,42,3,0,103.33
+694,Faf du Plessis ,c Pandya b Mishra,44,40,83,1,1,110.00
+695,Anuj Rawat,c Mayers b Gowtham,9,11,13,0,0,81.81
+696,Glenn Maxwell,lbw b Ravi Bishnoi,4,5,8,0,0,80.00
+697,Suyash Prabhudessai,c Gowtham b Mishra,6,7,10,0,0,85.71
+698,Dinesh Karthik ,run out (Yash Thakur),16,11,25,1,1,145.45
+699,Mahipal Lomror,lbw b Naveen-ul-Haq,3,4,7,0,0,75.00
+700,Wanindu Hasaranga,not out,8,7,14,1,0,114.28
+701,Karn Sharma,c Gowtham b Naveen-ul-Haq,2,2,5,0,0,100.00
+702,Mohammed Siraj,c †Pooran b Naveen-ul-Haq,0,1,3,0,0,0.00
+703,Josh Hazlewood,not out,1,2,3,0,0,50.00
+704,Kyle Mayers,c Anuj Rawat b Mohammed Siraj,0,2,3,0,0,0.00
+705,Ayush Badoni,c Kohli b Hazlewood,4,11,23,0,0,36.36
+706,Krunal Pandya,c Kohli b Maxwell,14,11,17,3,0,127.27
+707,Deepak Hooda,st †Karthik b de Silva,1,2,13,0,0,50.00
+708,Marcus Stoinis,c Prabhudessai b Sharma,13,19,31,0,1,68.42
+709,Nicholas Pooran ,c Lomror b Sharma,9,7,9,0,1,128.57
+710,Krishnappa Gowtham,run out (sub [R Sonu Yadav]/†Karthik),23,13,20,1,2,176.92
+711,Ravi Bishnoi,run out (Patel/†Karthik),5,10,19,0,0,50.00
+712,Amit Mishra,c †Karthik b Patel,19,30,42,2,0,63.33
+713,Naveen-ul-Haq,c †Karthik b Hazlewood,13,13,20,2,0,100.00
+714,KL Rahul ,not out,0,3,7,0,0,0.00
+715,Phil Salt ,c Miller b Mohammed Shami,0,1,2,0,0,0.00
+716,David Warner ,run out (Rashid Khan),2,2,10,0,0,100.00
+717,Priyam Garg,c †Saha b Mohammed Shami,10,14,26,0,0,71.42
+718,Rilee Rossouw,c †Saha b Mohammed Shami,8,6,9,2,0,133.33
+719,Manish Pandey,c †Saha b Mohammed Shami,1,4,7,0,0,25.00
+720,Axar Patel,c Rashid Khan b Sharma,27,30,43,2,1,90.00
+721,Aman Hakim Khan,c Manohar b Rashid Khan,51,44,62,3,3,115.90
+722,Ripal Patel,c Pandya b Sharma,23,13,32,2,1,176.92
+723,Anrich Nortje,not out,3,6,8,0,0,50.00
+724,Kuldeep Yadav,not out,0,1,1,0,0,0.00
+725,Wriddhiman Saha ,c †Salt b Ahmed,0,6,6,0,0,0.00
+726,Shubman Gill,c Pandey b Nortje,6,7,18,1,0,85.71
+727,Hardik Pandya ,not out,59,53,94,7,0,111.32
+728,Vijay Shankar,b Sharma,6,9,11,1,0,66.66
+729,David Miller,b Kuldeep Yadav,0,3,9,0,0,0.00
+730,Abhinav Manohar,c Aman Hakim Khan b Ahmed,26,33,44,0,1,78.78
+731,Rahul Tewatia,c Rossouw b Sharma,20,7,19,0,3,285.71
+732,Rashid Khan,not out,3,2,3,0,0,150.00
+733,Manan Vohra,b Theekshana,10,11,27,1,0,90.90
+734,Kyle Mayers,c Gaikwad b Ali,14,17,17,2,0,82.35
+735,Karan Sharma,c & b Ali,9,16,32,0,0,56.25
+736,Krunal Pandya ,c Rahane b Theekshana,0,1,3,0,0,0.00
+737,Marcus Stoinis,b Jadeja,6,4,5,1,0,150.00
+738,Nicholas Pooran ,c Ali b Pathirana,20,31,46,0,0,64.51
+739,Ayush Badoni,not out,59,33,41,2,4,178.78
+740,Krishnappa Gowtham,c Rahane b Pathirana,1,3,10,0,0,33.33
+741,Prabhsimran Singh,c †Ishan Kishan b Arshad Khan,9,7,8,1,0,128.57
+742,Shikhar Dhawan ,st †Ishan Kishan b Chawla,30,20,35,5,0,150.00
+743,Matthew Short,b Chawla,27,26,46,2,1,103.84
+744,Liam Livingstone,not out,82,42,65,7,4,195.23
+745,Jitesh Sharma ,not out,49,27,46,5,2,181.48
+746,Rohit Sharma ,c Short b R Dhawan,0,3,3,0,0,0.00
+747,Ishan Kishan ,c R Dhawan b Arshdeep Singh,75,41,80,7,4,182.92
+748,Cameron Green,c Chahar b Ellis,23,18,29,4,0,127.77
+749,Suryakumar Yadav,c Arshdeep Singh b Ellis,66,31,44,8,2,212.90
+750,Tim David,not out,19,10,21,3,0,190.00
+751,Tilak Varma,not out,26,10,15,1,3,260.00
+752,Jason Roy,c Agarwal b Kartik Tyagi,20,19,27,4,0,105.26
+753,Rahmanullah Gurbaz ,c Brook b Jansen,0,1,7,0,0,0.00
+754,Venkatesh Iyer,c †Klaasen b Jansen,7,4,6,1,0,175.00
+755,Nitish Rana ,c & b Markram,42,31,46,3,3,135.48
+756,Rinku Singh,c Abdul Samad b Natarajan,46,35,67,4,1,131.42
+757,Andre Russell,c Natarajan b Markande,24,15,13,1,2,160.00
+758,Sunil Narine,c Agarwal b Kumar,1,2,6,0,0,50.00
+759,Shardul Thakur,c Abdul Samad b Natarajan,8,6,9,1,0,133.33
+760,Anukul Roy,not out,13,7,11,2,0,185.71
+761,Harshit Rana,run out (†Klaasen/Natarajan),0,1,2,0,0,0.00
+762,Vaibhav Arora,not out,2,1,2,0,0,200.00
+763,Abhishek Sharma,c Russell b Thakur,9,10,25,1,0,90.00
+764,Mayank Agarwal,c †Rahmanullah Gurbaz b Harshit Rana,18,11,17,2,1,163.63
+765,Rahul Tripathi,c Arora b Russell,20,9,17,3,1,222.22
+766,Aiden Markram ,c Singh b Arora,41,40,64,4,0,102.50
+767,Harry Brook,lbw b AS Roy,0,4,6,0,0,0.00
+768,Heinrich Klaasen ,c Russell b Thakur,36,20,34,1,3,180.00
+769,Abdul Samad,c AS Roy b Varun,21,18,34,3,0,116.66
+770,Marco Jansen,c †Rahmanullah Gurbaz b Arora,1,4,10,0,0,25.00
+771,Bhuvneshwar Kumar,not out,5,5,16,1,0,100.00
+772,Mayank Markande,not out,1,2,6,0,0,50.00
+773,Yashasvi Jaiswal,run out (Sharma/Rashid Khan),14,11,31,1,1,127.27
+774,Jos Buttler,c Sharma b Pandya,8,6,10,2,0,133.33
+775,Sanju Samson ,c Pandya b Little,30,20,27,3,1,150.00
+776,Devdutt Padikkal,b Noor Ahmad,12,12,30,1,0,100.00
+777,Ravichandran Ashwin,b Rashid Khan,2,6,6,0,0,33.33
+778,Riyan Parag,lbw b Rashid Khan,4,6,8,0,0,66.66
+779,Shimron Hetmyer,lbw b Rashid Khan,7,13,29,0,0,53.84
+780,Dhruv Jurel,lbw b Noor Ahmad,9,8,13,1,0,112.50
+781,Trent Boult,b Mohammed Shami,15,11,15,1,1,136.36
+782,Adam Zampa,run out (Manohar),7,9,19,0,0,77.77
+783,Sandeep Sharma,not out,2,5,8,0,0,40.00
+784,Wriddhiman Saha ,not out,41,34,55,5,0,120.58
+785,Shubman Gill,st †Samson b Chahal,36,35,39,6,0,102.85
+786,Hardik Pandya ,not out,39,15,17,3,3,260.00
+787,Cameron Green,b Deshpande,6,4,10,1,0,150.00
+788,Ishan Kishan ,c Theekshana b Chahar,7,9,15,1,0,77.77
+789,Rohit Sharma ,c Jadeja b Chahar,0,3,9,0,0,0.00
+790,Nehal Wadhera,b Pathirana,64,51,68,8,1,125.49
+791,Suryakumar Yadav,b Jadeja,26,22,35,3,0,118.18
+792,Tristan Stubbs,c Jadeja b Pathirana,20,21,44,2,0,95.23
+793,Tim David,c Gaikwad b Deshpande,2,4,7,0,0,50.00
+794,Arshad Khan,c Gaikwad b Pathirana,1,2,6,0,0,50.00
+795,Jofra Archer,not out,3,2,5,0,0,150.00
+796,Piyush Chawla,not out,2,2,2,0,0,100.00
+797,Ruturaj Gaikwad,c †Ishan Kishan b Chawla,30,16,23,4,2,187.50
+798,Devon Conway,lbw b Madhwal,44,42,83,4,0,104.76
+799,Ajinkya Rahane,lbw b Chawla,21,17,23,1,1,123.52
+800,Ambati Rayudu,c Goyal b Stubbs,12,11,16,0,1,109.09
+801,Shivam Dube,not out,26,18,27,0,3,144.44
+802,MS Dhoni ,not out,2,3,7,0,0,66.66
+803,Virat Kohli,c Ahmed b Mukesh Kumar,55,46,74,5,0,119.56
+804,Faf du Plessis ,c AR Patel b Marsh,45,32,46,5,1,140.62
+805,Glenn Maxwell,c †Salt b Marsh,0,1,2,0,0,0.00
+806,Mahipal Lomror,not out,54,29,53,6,3,186.20
+807,Dinesh Karthik ,c Warner b Ahmed,11,9,22,0,1,122.22
+808,Anuj Rawat,not out,8,3,5,0,1,266.66
+809,David Warner ,c du Plessis b Hazlewood,22,14,26,3,1,157.14
+810,Phil Salt ,b Sharma,87,45,76,8,6,193.33
+811,Mitchell Marsh,c Lomror b Patel,26,17,22,3,1,152.94
+812,Rilee Rossouw,not out,35,22,34,1,3,159.09
+813,Axar Patel,not out,8,3,5,0,1,266.66
+814,Wriddhiman Saha ,c sub (PN Mankad) b Avesh Khan,81,43,59,10,4,188.37
+815,Shubman Gill,not out,94,51,96,2,7,184.31
+816,Hardik Pandya ,c Pandya b Mohsin Khan,25,15,20,1,2,166.66
+817,David Miller,not out,21,12,19,2,1,175.00
+818,Kyle Mayers,c Rashid Khan b Sharma,48,32,46,7,2,150.00
+819,Quinton de Kock ,b Rashid Khan,70,41,88,7,3,170.73
+820,Deepak Hooda,c Tewatia b Mohammed Shami,11,11,24,0,0,100.00
+821,Marcus Stoinis,c Mohammed Shami b Sharma,4,9,15,0,0,44.44
+822,Nicholas Pooran,c Mohammed Shami b Noor Ahmad,3,6,15,0,0,50.00
+823,Ayush Badoni,c Noor Ahmad b Sharma,21,11,15,1,2,190.90
+824,Swapnil Singh,not out,2,4,14,0,0,50.00
+825,Krunal Pandya ,c Miller b Sharma,0,1,2,0,0,0.00
+826,Ravi Bishnoi,not out,4,5,5,1,0,80.00
+827,Yashasvi Jaiswal,c Natarajan b Jansen,35,18,27,5,2,194.44
+828,Jos Buttler,lbw b Kumar,95,59,84,10,4,161.01
+829,Sanju Samson ,not out,66,38,66,4,5,173.68
+830,Shimron Hetmyer,not out,7,5,8,0,0,140.00
+831,Anmolpreet Singh,c Hetmyer b Chahal,33,25,26,4,1,132.00
+832,Abhishek Sharma,c Chahal b R Ashwin,55,34,57,5,2,161.76
+833,Rahul Tripathi,c Jaiswal b Chahal,47,29,57,2,3,162.06
+834,Heinrich Klaasen ,c Buttler b Chahal,26,12,15,2,2,216.66
+835,Aiden Markram ,lbw b Chahal,6,5,13,1,0,120.00
+836,Glenn Phillips,c Hetmyer b Yadav,25,7,12,1,3,357.14
+837,Abdul Samad,not out,17,7,17,0,2,242.85
+838,Marco Jansen,not out,3,2,10,0,0,150.00
+839,Prabhsimran Singh,c †Rahmanullah Gurbaz b Harshit Rana,12,8,11,3,0,150.00
+840,Shikhar Dhawan ,c Arora b Rana,57,47,80,9,1,121.27
+841,Bhanuka Rajapaksa,c †Rahmanullah Gurbaz b Harshit Rana,0,3,11,0,0,0.00
+842,Liam Livingstone,lbw b Varun,15,9,16,3,0,166.66
+843,Jitesh Sharma ,c †Rahmanullah Gurbaz b Varun,21,18,34,0,2,116.66
+844,Sam Curran,c †Rahmanullah Gurbaz b Suyash Sharma,4,9,25,0,0,44.44
+845,Rishi Dhawan,b Varun,19,11,12,1,1,172.72
+846,M Shahrukh Khan,not out,21,8,20,3,1,262.50
+847,Harpreet Brar,not out,17,9,17,2,1,188.88
+848,Jason Roy,c Shahrukh Khan b Harpreet Brar,38,24,40,8,0,158.33
+849,Rahmanullah Gurbaz ,lbw b Ellis,15,12,25,1,1,125.00
+850,Nitish Rana ,c Livingstone b Chahar,51,38,50,6,1,134.21
+851,Venkatesh Iyer,c Livingstone b Chahar,11,13,28,0,0,84.61
+852,Andre Russell,run out (†Sharma/Arshdeep Singh),42,23,34,3,3,182.60
+853,Rinku Singh,not out,21,10,25,2,1,210.00
+854,Shardul Thakur,not out,0,0,1,0,0,-
+855,Virat Kohli,c †Ishan Kishan b Behrendorff,1,4,7,0,0,25.00
+856,Faf du Plessis ,c sub (Vishnu Vinod) b Green,65,41,78,5,3,158.53
+857,Anuj Rawat,c Green b Behrendorff,6,4,8,1,0,150.00
+858,Glenn Maxwell,c Wadhera b Behrendorff,68,33,53,8,4,206.06
+859,Mahipal Lomror,b Kartikeya,1,3,6,0,0,33.33
+860,Dinesh Karthik ,c Wadhera b Jordan,30,18,31,4,1,166.66
+861,Kedar Jadhav,not out,12,10,33,1,0,120.00
+862,Wanindu Hasaranga,not out,12,8,11,2,0,150.00
+863,Ishan Kishan ,c †Anuj Rawat b de Silva,42,21,24,4,4,200.00
+864,Rohit Sharma ,lbw b de Silva,7,8,27,1,0,87.50
+865,Suryakumar Yadav,c Jadhav b Vyshak,83,35,60,7,6,237.14
+866,Nehal Wadhera,not out,52,34,61,4,3,152.94
+867,Tim David,c Maxwell b Vyshak,0,1,2,0,0,0.00
+868,Cameron Green,not out,2,2,4,0,0,100.00
+869,Ruturaj Gaikwad,c Aman Hakim Khan b AR Patel,24,18,39,4,0,133.33
+870,Devon Conway,lbw b AR Patel,10,13,28,1,0,76.92
+871,Ajinkya Rahane,c & b Lalit Yadav,21,20,31,2,0,105.00
+872,Moeen Ali,c Marsh b Kuldeep Yadav,7,12,13,0,0,58.33
+873,Shivam Dube,c Warner b Marsh,25,12,24,0,3,208.33
+874,Ambati Rayudu,c RV Patel b Ahmed,23,17,28,1,1,135.29
+875,Ravindra Jadeja,c AR Patel b Marsh,21,16,30,1,1,131.25
+876,MS Dhoni ,c Warner b Marsh,20,9,22,1,2,222.22
+877,Deepak Chahar,not out,1,2,6,0,0,50.00
+878,Tushar Deshpande,not out,0,1,2,0,0,0.00
+879,David Warner ,c Rahane b Chahar,0,2,2,0,0,0.00
+880,Phil Salt ,c Rayudu b Chahar,17,11,19,1,2,154.54
+881,Mitchell Marsh,run out (Rahane),5,4,21,1,0,125.00
+882,Manish Pandey,lbw b Pathirana,27,29,42,1,2,93.10
+883,Rilee Rossouw,c Pathirana b Jadeja,35,37,44,2,1,94.59
+884,Ripal Patel,run out (Ali),10,16,31,0,0,62.50
+885,Axar Patel,c Rahane b Pathirana,21,12,20,2,1,175.00
+886,Aman Hakim Khan,not out,2,3,13,0,0,66.66
+887,Lalit Yadav,b Pathirana,12,5,7,3,0,240.00
+888,Kuldeep Yadav,not out,0,1,1,0,0,0.00
+889,Jason Roy,c Hetmyer b Boult,10,8,14,2,0,125.00
+890,Rahmanullah Gurbaz ,c Sandeep Sharma b Boult,18,12,23,1,2,150.00
+891,Venkatesh Iyer,c Boult b Chahal,57,42,68,2,4,135.71
+892,Nitish Rana ,c Hetmyer b Chahal,22,17,26,2,0,129.41
+893,Andre Russell,c Ashwin b Asif,10,10,19,0,1,100.00
+894,Rinku Singh,c Root b Chahal,16,18,30,0,1,88.88
+895,Shardul Thakur,lbw b Chahal,1,2,5,0,0,50.00
+896,Anukul Roy,not out,6,6,20,0,0,100.00
+897,Sunil Narine,c Root b Sandeep Sharma,6,5,9,1,0,120.00
+898,Yashasvi Jaiswal,not out,98,47,62,12,5,208.51
+899,Jos Buttler,run out (Russell),0,3,10,0,0,0.00
+900,Sanju Samson ,not out,48,29,53,2,5,165.51
+901,Ishan Kishan ,lbw b Rashid Khan,31,20,38,4,1,155.00
+902,Rohit Sharma ,c Tewatia b Rashid Khan,29,18,34,3,2,161.11
+903,Suryakumar Yadav,not out,103,49,73,11,6,210.20
+904,Nehal Wadhera,b Rashid Khan,15,7,12,1,1,214.28
+905,Vishnu Vinod,c Manohar b Sharma,30,20,36,2,2,150.00
+906,Tim David,c & b Rashid Khan,5,3,6,1,0,166.66
+907,Cameron Green,not out,3,3,18,0,0,100.00
+908,Wriddhiman Saha ,lbw b Madhwal,2,5,10,0,0,40.00
+909,Shubman Gill,b Madhwal,6,9,20,0,0,66.66
+910,Hardik Pandya ,c †Ishan Kishan b Behrendorff,4,3,5,1,0,133.33
+911,Vijay Shankar,b Chawla,29,14,22,6,0,207.14
+912,David Miller,lbw b Madhwal,41,26,47,4,2,157.69
+913,Abhinav Manohar,b Kartikeya,2,3,5,0,0,66.66
+914,Rahul Tewatia,c Green b Chawla,14,13,29,1,0,107.69
+915,Rashid Khan,not out,79,32,44,3,10,246.87
+916,Noor Ahmad,b Kartikeya,1,3,5,0,0,33.33
+917,Alzarri Joseph,not out,7,12,37,1,0,58.33
+918,Anmolpreet Singh,c & b Mishra,36,27,46,7,0,133.33
+919,Abhishek Sharma,c †de Kock b Yudhvir Singh,7,5,14,1,0,140.00
+920,Rahul Tripathi,c †de Kock b Yash Thakur,20,13,19,4,0,153.84
+921,Aiden Markram ,st †de Kock b Pandya,28,20,28,2,1,140.00
+922,Heinrich Klaasen ,c Mankad b Avesh Khan,47,29,52,3,3,162.06
+923,Glenn Phillips,b Pandya,0,1,2,0,0,0.00
+924,Abdul Samad,not out,37,25,41,1,4,148.00
+925,Bhuvneshwar Kumar,not out,2,1,6,0,0,200.00
+926,Kyle Mayers,c Markram b Phillips,2,14,16,0,0,14.28
+927,Quinton de Kock ,c Abhishek Sharma b Markande,29,19,39,3,1,152.63
+928,Prerak Mankad,not out,64,45,78,7,2,142.22
+929,Marcus Stoinis,c Abdul Samad b Abhishek Sharma,40,25,34,2,3,160.00
+930,Nicholas Pooran,not out,44,13,22,3,4,338.46
+931,Prabhsimran Singh,b Mukesh Kumar,103,65,87,10,6,158.46
+932,Shikhar Dhawan ,c Rossouw b Sharma,7,5,9,0,1,140.00
+933,Liam Livingstone,b Sharma,4,5,15,1,0,80.00
+934,Jitesh Sharma ,b Patel,5,5,8,1,0,100.00
+935,Sam Curran,c Aman Hakim Khan b Dubey,20,24,39,1,0,83.33
+936,Harpreet Brar,c Marsh b Kuldeep Yadav,2,5,9,0,0,40.00
+937,M Shahrukh Khan,run out (†Salt/Ahmed),2,4,22,0,0,50.00
+938,Sikandar Raza,not out,11,7,11,0,1,157.14
+939,Rishi Dhawan,not out,0,0,1,0,0,-
+940,David Warner ,lbw b Harpreet Brar,54,27,49,10,1,200.00
+941,Phil Salt ,b Harpreet Brar,21,17,31,3,0,123.52
+942,Mitchell Marsh,lbw b Chahar,3,4,7,0,0,75.00
+943,Rilee Rossouw,c Sikandar Raza b Harpreet Brar,5,5,6,1,0,100.00
+944,Axar Patel,lbw b Chahar,1,2,12,0,0,50.00
+945,Manish Pandey,b Harpreet Brar,0,3,7,0,0,0.00
+946,Aman Hakim Khan,c Harpreet Brar b Ellis,16,18,24,1,1,88.88
+947,Praveen Dubey,b Ellis,16,20,29,2,0,80.00
+948,Kuldeep Yadav,not out,10,17,21,0,0,58.82
+949,Mukesh Kumar,not out,6,7,12,0,0,85.71
+950,Virat Kohli,c Jaiswal b Asif,18,19,31,1,0,94.73
+951,Faf du Plessis ,c Jaiswal b Asif,55,44,65,3,2,125.00
+952,Glenn Maxwell,b Sandeep Sharma,54,33,51,5,3,163.63
+953,Mahipal Lomror,c Jurel b Zampa,1,2,5,0,0,50.00
+954,Dinesh Karthik ,lbw b Zampa,0,2,3,0,0,0.00
+955,Michael Bracewell,not out,9,9,21,0,0,100.00
+956,Anuj Rawat,not out,29,11,12,3,2,263.63
+957,Yashasvi Jaiswal,c Kohli b Mohammed Siraj,0,2,4,0,0,0.00
+958,Jos Buttler,c Mohammed Siraj b Parnell,0,2,10,0,0,0.00
+959,Sanju Samson ,c Anuj Rawat b Parnell,4,5,10,1,0,80.00
+960,Joe Root,lbw b Parnell,10,15,26,1,0,66.66
+961,Devdutt Padikkal,c Mohammed Siraj b Bracewell,4,4,16,1,0,100.00
+962,Shimron Hetmyer,c Bracewell b Maxwell,35,19,28,1,4,184.21
+963,Dhruv Jurel,c Lomror b Bracewell,1,7,6,0,0,14.28
+964,Ravichandran Ashwin,run out (Mohammed Siraj/Anuj Rawat),0,0,7,0,0,-
+965,Adam Zampa,b Sharma,2,6,10,0,0,33.33
+966,Sandeep Sharma,not out,0,1,4,0,0,0.00
+967,KM Asif,c Kohli b Sharma,0,2,3,0,0,0.00
+968,Ruturaj Gaikwad,c Arora b Varun,17,13,19,2,0,130.76
+969,Devon Conway,c Singh b Thakur,30,28,51,3,0,107.14
+970,Ajinkya Rahane,c Roy b Varun,16,11,24,1,1,145.45
+971,Ambati Rayudu,b Narine,4,7,14,0,0,57.14
+972,Shivam Dube,not out,48,34,55,1,3,141.17
+973,Moeen Ali,b Narine,1,2,5,0,0,50.00
+974,Ravindra Jadeja,c Varun b Arora,20,24,43,0,1,83.33
+975,MS Dhoni ,not out,2,3,4,0,0,66.66
+976,Jason Roy,c Pathirana b Chahar,12,15,30,1,0,80.00
+977,Rahmanullah Gurbaz ,c Deshpande b Chahar,1,4,8,0,0,25.00
+978,Venkatesh Iyer,c Jadeja b Chahar,9,4,11,2,0,225.00
+979,Nitish Rana ,not out,57,44,72,6,1,129.54
+980,Rinku Singh,run out (Ali),54,43,54,4,3,125.58
+981,Andre Russell,not out,2,2,9,0,0,100.00
+982,Wriddhiman Saha ,c Abhishek Sharma b Kumar,0,3,4,0,0,0.00
+983,Shubman Gill,c Abdul Samad b Kumar,101,58,100,13,1,174.13
+984,Sai Sudharsan,c Natarajan b Jansen,47,36,70,6,1,130.55
+985,Hardik Pandya ,c Tripathi b Kumar,8,6,7,1,0,133.33
+986,David Miller,c Markram b Natarajan,7,5,8,1,0,140.00
+987,Rahul Tewatia,c Jansen b Fazalhaq Farooqi,3,3,7,0,0,100.00
+988,Dasun Shanaka,not out,9,7,12,1,0,128.57
+989,Rashid Khan,c †Klaasen b Kumar,0,1,2,0,0,0.00
+990,Noor Ahmad,run out (†Klaasen/Kumar),0,1,1,0,0,0.00
+991,Mohammed Shami,c Jansen b Kumar,0,1,3,0,0,0.00
+992,Mohit Sharma,not out,0,1,1,0,0,0.00
+993,Anmolpreet Singh,c Rashid Khan b Mohammed Shami,5,4,5,1,0,125.00
+994,Abhishek Sharma,c †Saha b Yash Dayal,5,5,10,1,0,100.00
+995,Aiden Markram ,c Shanaka b Mohammed Shami,10,10,19,1,0,100.00
+996,Rahul Tripathi,c Tewatia b Mohammed Shami,1,2,5,0,0,50.00
+997,Heinrich Klaasen ,c Miller b Mohammed Shami,64,44,73,4,3,145.45
+998,Sanvir Singh,c Sai Sudharsan b Sharma,7,6,12,0,1,116.66
+999,Abdul Samad,c sub (Shivam Mavi) b Sharma,4,3,5,1,0,133.33
+1000,Marco Jansen,c Pandya b Sharma,3,6,11,0,0,50.00
+1001,Bhuvneshwar Kumar,c Rashid Khan b Sharma,27,26,51,3,0,103.84
+1002,Mayank Markande,not out,18,9,17,2,1,200.00
+1003,Fazalhaq Farooqi,not out,1,5,5,0,0,20.00
+1004,Deepak Hooda,c David b Behrendorff,5,7,12,0,0,71.42
+1005,Quinton de Kock ,c †Ishan Kishan b Chawla,16,15,31,0,2,106.66
+1006,Prerak Mankad,c †Ishan Kishan b Behrendorff,0,1,2,0,0,0.00
+1007,Krunal Pandya ,retired hurt,49,42,71,1,1,116.66
+1008,Marcus Stoinis,not out,89,47,80,4,8,189.36
+1009,Nicholas Pooran,not out,8,8,25,1,0,100.00
+1010,Ishan Kishan ,c Naveen-ul-Haq b Ravi Bishnoi,59,39,54,8,1,151.28
+1011,Rohit Sharma ,c Hooda b Ravi Bishnoi,37,25,47,1,3,148.00
+1012,Suryakumar Yadav,b Yash Thakur,7,9,22,0,0,77.77
+1013,Nehal Wadhera,c sub (K Gowtham) b Mohsin Khan,16,20,28,2,0,80.00
+1014,Tim David,not out,32,19,41,1,3,168.42
+1015,Vishnu Vinod,c Pooran b Yash Thakur,2,4,9,0,0,50.00
+1016,Cameron Green,not out,4,6,17,0,0,66.66
+1017,David Warner ,c Dhawan b Curran,46,31,53,5,2,148.38
+1018,Prithvi Shaw,c Taide b Curran,54,38,74,7,1,142.10
+1019,Rilee Rossouw,not out,82,37,44,6,6,221.62
+1020,Phil Salt ,not out,26,14,21,2,2,185.71
+1021,Prabhsimran Singh,c Dhull b Patel,22,19,40,4,0,115.78
+1022,Shikhar Dhawan ,c Aman Hakim Khan b Sharma,0,1,9,0,0,0.00
+1023,Atharva Taide,retired out,55,42,67,5,2,130.95
+1024,Liam Livingstone,c Patel b Sharma,94,48,69,5,9,195.83
+1025,Jitesh Sharma ,c Ahmed b Nortje,0,3,4,0,0,0.00
+1026,M Shahrukh Khan,c Patel b Ahmed,6,3,7,0,1,200.00
+1027,Sam Curran,b Nortje,11,5,13,1,1,220.00
+1028,Harpreet Brar,run out (†Salt/Nortje),0,1,3,0,0,0.00
+1029,Rahul Chahar,not out,0,0,9,0,0,-
+1030,Abhishek Sharma,c Lomror b Bracewell,11,14,22,2,0,78.57
+1031,Rahul Tripathi,c Patel b Bracewell,15,12,25,2,1,125.00
+1032,Aiden Markram ,b Shahbaz Ahmed,18,20,37,0,0,90.00
+1033,Heinrich Klaasen ,b Patel,104,51,62,8,6,203.92
+1034,Harry Brook,not out,27,19,37,2,1,142.10
+1035,Glenn Phillips,c Parnell b Mohammed Siraj,5,4,10,1,0,125.00
+1036,Virat Kohli,c Phillips b Kumar,100,63,82,12,4,158.73
+1037,Faf du Plessis ,c Tripathi b Natarajan,71,47,86,7,2,151.06
+1038,Glenn Maxwell,not out,5,3,11,1,0,166.66
+1039,Michael Bracewell,not out,4,4,6,0,0,100.00
+1040,Prabhsimran Singh,c & b Boult,2,2,3,0,0,100.00
+1041,Shikhar Dhawan ,lbw b Zampa,17,12,31,2,1,141.66
+1042,Atharva Taide,c Padikkal b Saini,19,12,19,3,1,158.33
+1043,Liam Livingstone,b Saini,9,13,16,1,0,69.23
+1044,Sam Curran,not out,49,31,72,4,2,158.06
+1045,Jitesh Sharma ,c sub (D Ferreira) b Saini,44,28,36,3,3,157.14
+1046,M Shahrukh Khan,not out,41,23,31,4,2,178.26
+1047,Yashasvi Jaiswal,c sub (R Dhawan) b Ellis,50,36,72,8,0,138.88
+1048,Jos Buttler,lbw b Rabada,0,4,7,0,0,0.00
+1049,Devdutt Padikkal,c Harpreet Brar b Arshdeep Singh,51,30,38,5,3,170.00
+1050,Sanju Samson ,c sub (R Dhawan) b Chahar,2,3,6,0,0,66.66
+1051,Shimron Hetmyer,c Dhawan b Curran,46,28,50,4,3,164.28
+1052,Riyan Parag,c Taide b Rabada,20,12,21,1,2,166.66
+1053,Dhruv Jurel,not out,10,4,11,0,1,250.00
+1054,Trent Boult,not out,1,2,6,0,0,50.00
+1055,Ruturaj Gaikwad,c Rossouw b Sakariya,79,50,68,3,7,158.00
+1056,Devon Conway,c Aman Hakim Khan b Nortje,87,52,90,11,3,167.30
+1057,Shivam Dube,c Lalit Yadav b Ahmed,22,9,21,0,3,244.44
+1058,MS Dhoni ,not out,5,4,14,0,0,125.00
+1059,Ravindra Jadeja,not out,20,7,12,3,1,285.71
+1060,Prithvi Shaw,c Rayudu b Deshpande,5,7,8,1,0,71.42
+1061,David Warner ,c Gaikwad b Pathirana,86,58,92,7,5,148.27
+1062,Phil Salt ,c Rahane b Chahar,3,6,17,0,0,50.00
+1063,Rilee Rossouw,b Chahar,0,1,2,0,0,0.00
+1064,Yash Dhull,c Deshpande b Jadeja,13,15,25,1,0,86.66
+1065,Axar Patel,c Gaikwad b Chahar,15,8,15,1,1,187.50
+1066,Aman Hakim Khan,c Ali b Pathirana,7,9,17,1,0,77.77
+1067,Lalit Yadav,c Ali b Theekshana,6,12,16,0,0,50.00
+1068,Anrich Nortje,not out,0,1,10,0,0,0.00
+1069,Kuldeep Yadav,lbw b Theekshana,0,1,2,0,0,0.00
+1070,Chetan Sakariya,not out,0,2,3,0,0,0.00
+1071,Karan Sharma,c Thakur b Harshit Rana,3,5,15,0,0,60.00
+1072,Quinton de Kock ,c Russell b Varun,28,27,55,0,2,103.70
+1073,Prerak Mankad,c Harshit Rana b Arora,26,20,22,5,0,130.00
+1074,Marcus Stoinis,c Iyer b Arora,0,2,5,0,0,0.00
+1075,Krunal Pandya ,c Singh b Narine,9,8,13,0,1,112.50
+1076,Ayush Badoni,c Thakur b Narine,25,21,42,2,1,119.04
+1077,Nicholas Pooran,c Iyer b Thakur,58,30,42,4,5,193.33
+1078,Krishnappa Gowtham,not out,11,4,9,1,1,275.00
+1079,Ravi Bishnoi,b Thakur,2,2,3,0,0,100.00
+1080,Naveen-ul-Haq,not out,2,3,3,0,0,66.66
+1081,Jason Roy,b Pandya,45,28,44,7,1,160.71
+1082,Venkatesh Iyer,c Ravi Bishnoi b Gowtham,24,15,25,3,1,160.00
+1083,Nitish Rana ,c Pandya b Ravi Bishnoi,8,10,13,1,0,80.00
+1084,Rahmanullah Gurbaz ,c Ravi Bishnoi b Yash Thakur,10,15,25,0,0,66.66
+1085,Rinku Singh,not out,67,33,62,6,4,203.03
+1086,Andre Russell,b Ravi Bishnoi,7,9,13,0,1,77.77
+1087,Shardul Thakur,c Mankad b Yash Thakur,3,7,14,0,0,42.85
+1088,Sunil Narine,run out (Naveen-ul-Haq/†de Kock),1,2,4,0,0,50.00
+1089,Vaibhav Arora,not out,1,1,15,0,0,100.00
+1090,Vivrant Sharma,c sub (Ramandeep Singh) b Madhwal,69,47,69,9,2,146.80
+1091,Mayank Agarwal,c †Ishan Kishan b Madhwal,83,46,84,8,4,180.43
+1092,Heinrich Klaasen ,b Madhwal,18,13,31,2,0,138.46
+1093,Glenn Phillips,c Kartikeya b Jordan,1,4,8,0,0,25.00
+1094,Aiden Markram ,not out,13,7,19,0,1,185.71
+1095,Harry Brook,b Madhwal,0,1,2,0,0,0.00
+1096,Sanvir Singh,not out,4,3,8,1,0,133.33
+1097,Ishan Kishan ,c Brook b Kumar,14,12,14,1,1,116.66
+1098,Rohit Sharma ,c Nitish Kumar Reddy b Dagar,56,37,72,8,1,151.35
+1099,Cameron Green,not out,100,47,85,8,8,212.76
+1100,Suryakumar Yadav,not out,25,16,27,4,0,156.25
+1101,Virat Kohli,not out,101,61,102,13,1,165.57
+1102,Faf du Plessis ,c Tewatia b Noor Ahmad,28,19,35,5,0,147.36
+1103,Glenn Maxwell,b Rashid Khan,11,5,7,1,1,220.00
+1104,Mahipal Lomror,st †Saha b Noor Ahmad,1,3,5,0,0,33.33
+1105,Michael Bracewell,c & b Mohammed Shami,26,16,26,5,0,162.50
+1106,Dinesh Karthik,c †Saha b Yash Dayal,0,1,2,0,0,0.00
+1107,Anuj Rawat ,not out,23,15,30,1,1,153.33
+1108,Wriddhiman Saha ,c Parnell b Mohammed Siraj,12,14,15,2,0,85.71
+1109,Shubman Gill,not out,104,52,97,5,8,200.00
+1110,Vijay Shankar,c Kohli b Vyshak,53,35,53,7,2,151.42
+1111,Dasun Shanaka,c sub (SS Prabhudessai) b Patel,0,3,5,0,0,0.00
+1112,David Miller,c sub (SS Prabhudessai) b Mohammed Siraj,6,7,12,1,0,85.71
+1113,Rahul Tewatia,not out,4,5,12,0,0,80.00
+1114,Ruturaj Gaikwad,c Miller b Sharma,60,44,48,7,1,136.36
+1115,Devon Conway,c Rashid Khan b Mohammed Shami,40,34,74,4,0,117.64
+1116,Shivam Dube,b Noor Ahmad,1,3,4,0,0,33.33
+1117,Ajinkya Rahane,c Shubman Gill b Nalkande,17,10,15,0,1,170.00
+1118,Ambati Rayudu,c Shanaka b Rashid Khan,17,9,15,1,1,188.88
+1119,Ravindra Jadeja,b Mohammed Shami,22,16,25,2,0,137.50
+1120,MS Dhoni ,c Pandya b Sharma,1,2,4,0,0,50.00
+1121,Moeen Ali,not out,9,4,7,0,1,225.00
+1122,Wriddhiman Saha ,c Pathirana b Chahar,12,11,14,2,0,109.09
+1123,Shubman Gill,c Conway b Chahar,42,38,58,4,1,110.52
+1124,Hardik Pandya ,c Jadeja b Theekshana,8,7,12,1,0,114.28
+1125,Dasun Shanaka,c Theekshana b Jadeja,17,16,12,1,1,106.25
+1126,David Miller,b Jadeja,4,6,11,0,0,66.66
+1127,Vijay Shankar,c Gaikwad b Pathirana,14,10,30,0,1,140.00
+1128,Rahul Tewatia,b Theekshana,3,5,8,0,0,60.00
+1129,Rashid Khan,c Conway b Deshpande,30,16,26,3,2,187.50
+1130,Darshan Nalkande,run out (sub [SP Senapati]),0,1,1,0,0,0.00
+1131,Noor Ahmad,not out,7,5,14,1,0,140.00
+1132,Mohammed Shami,c Chahar b Pathirana,5,5,8,1,0,100.00
+1133,Ishan Kishan ,c †Pooran b Yash Thakur,15,12,18,3,0,125.00
+1134,Rohit Sharma ,c Badoni b Naveen-ul-Haq,11,10,11,1,1,110.00
+1135,Cameron Green,b Naveen-ul-Haq,41,23,38,6,1,178.26
+1136,Suryakumar Yadav,c Gowtham b Naveen-ul-Haq,33,20,29,2,2,165.00
+1137,Tilak Varma,c Hooda b Naveen-ul-Haq,26,22,43,0,2,118.18
+1138,Tim David,c Hooda b Yash Thakur,13,13,29,1,0,100.00
+1139,Nehal Wadhera,c Ravi Bishnoi b Yash Thakur,23,12,23,2,2,191.66
+1140,Chris Jordan,c Hooda b Mohsin Khan,4,7,7,0,0,57.14
+1141,Hrithik Shokeen,not out,0,1,6,0,0,0.00
+1142,Kyle Mayers,c Green b Jordan,18,13,18,3,0,138.46
+1143,Prerak Mankad,c Shokeen b Madhwal,3,6,9,0,0,50.00
+1144,Krunal Pandya ,c David b Chawla,8,11,35,1,0,72.72
+1145,Marcus Stoinis,run out (David/†Ishan Kishan),40,27,45,5,1,148.14
+1146,Ayush Badoni,b Madhwal,1,7,6,0,0,14.28
+1147,Nicholas Pooran ,c †Ishan Kishan b Madhwal,0,1,1,0,0,0.00
+1148,Deepak Hooda,run out (Green/Madhwal/Sharma),15,13,26,0,1,115.38
+1149,Krishnappa Gowtham,run out (Sharma),2,3,3,0,0,66.66
+1150,Ravi Bishnoi,c Jordan b Madhwal,3,6,8,0,0,50.00
+1151,Naveen-ul-Haq,not out,1,5,10,0,0,20.00
+1152,Mohsin Khan,b Madhwal,0,7,8,0,0,0.00
+1153,Wriddhiman Saha ,st †Ishan Kishan b Chawla,18,16,31,3,0,112.50
+1154,Shubman Gill,c David b Madhwal,129,60,86,7,10,215.00
+1155,Sai Sudharsan,retired out,43,31,68,5,1,138.70
+1156,Hardik Pandya ,not out,28,13,20,2,2,215.38
+1157,Rashid Khan,not out,5,2,6,1,0,250.00
+1158,Rohit Sharma ,c Little b Mohammed Shami,8,7,17,1,0,114.28
+1159,Nehal Wadhera,c †Saha b Mohammed Shami,4,3,3,1,0,133.33
+1160,Cameron Green,b Little,30,20,54,2,2,150.00
+1161,Suryakumar Yadav,b Sharma,61,38,61,7,2,160.52
+1162,Tilak Varma,b Rashid Khan,43,14,17,5,3,307.14
+1163,Vishnu Vinod ,c Pandya b Sharma,5,7,19,0,0,71.42
+1164,Tim David,lbw b Rashid Khan,2,3,6,0,0,66.66
+1165,Chris Jordan,c Sai Sudharsan b Sharma,2,5,7,0,0,40.00
+1166,Piyush Chawla,c Miller b Sharma,0,2,5,0,0,0.00
+1167,Kumar Kartikeya,c Miller b Sharma,6,7,10,1,0,85.71
+1168,Jason Behrendorff,not out,3,5,8,0,0,60.00
+1169,Wriddhiman Saha ,c †Dhoni b Chahar,54,39,63,5,1,138.46
+1170,Shubman Gill,st †Dhoni b Jadeja,39,20,34,7,0,195.00
+1171,Sai Sudharsan,lbw b Pathirana,96,47,58,8,6,204.25
+1172,Hardik Pandya ,not out,21,12,32,0,2,175.00
+1173,Rashid Khan,c Gaikwad b Pathirana,0,2,2,0,0,0.00
+1174,Ruturaj Gaikwad,c Rashid Khan b Noor Ahmad,26,16,30,3,1,162.50
+1175,Devon Conway,c Sharma b Noor Ahmad,47,25,34,4,2,188.00
+1176,Shivam Dube,not out,32,21,49,0,2,152.38
+1177,Ajinkya Rahane,c Shankar b Sharma,27,13,20,2,2,207.69
+1178,Ambati Rayudu,c & b Sharma,19,8,8,1,2,237.50
+1179,MS Dhoni ,c Miller b Sharma,0,1,1,0,0,0.00
+1180,Ravindra Jadeja,not out,15,6,14,1,1,250.00
