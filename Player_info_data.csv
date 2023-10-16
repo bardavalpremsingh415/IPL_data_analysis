@@ -1,197 +1,197 @@
 ,Player_name,Country
-0,Ambati Rayudu,India
-1,Litton Das,Bangladesh
-2,Harshal Patel,India
-3,Prithvi Shaw,India
-4,Sikandar Raza,Zimbabwe
-5,David Willey,England
-6,Duan Jansen,South Africa
-7,Riley Meredith,Australia
-8,Matheesha Pathirana,Sri Lanka
-9,Mohit Rathee,India
-10,Nitish Rana,India
-11,Mayank Agarwal,India
-12,Jos Buttler,England
-13,Aiden Markram,South Africa
-14,Karn Sharma,India
-15,Heinrich Klaasen,South Africa
-16,Venkatesh Iyer,India
-17,David Warner,Australia
-18,Akash Singh,India
-19,Ishan Kishan,India
-20,Noor Ahmad,Afghanistan
-21,Ripal Patel,India
-22,Sam Curran,England
-23,Suyash Prabhudessai,India
-24,Nehal Wadhera,India
-25,Anuj Rawat,India
-26,Arshdeep Singh,India
-27,Jason Roy,England
-28,Lockie Ferguson,New Zealand
-29,Joe Root,England
-30,Hrithik Shokeen,India
-31,Sisanda Magala,South Africa
-32,Devon Conway,New Zealand
-33,Anukul Roy,India
-34,Faf du Plessis,South Africa
-35,Priyam Garg,India
-36,Washington Sundar,India
-37,Shivam Dube,India
-38,Krunal Pandya,India
-39,KL Rahul,India
-40,Alzarri Joseph,West Indies
-41,Abhinav Manohar,India
-42,Shimron Hetmyer,West Indies
-43,Mohsin Khan,India
-44,M Shahrukh Khan,India
-45,Glenn Phillips,New Zealand
-46,Varun Chakravarthy,India
-47,Wayne Parnell,South Africa
-48,Lalit Yadav,India
-49,Trent Boult,New Zealand
-50,Kagiso Rabada,South Africa
-51,Anmolpreet Singh,India
-52,Ben Stokes,England
-53,Riyan Parag,India
-54,Arshad Khan,India
-55,Harry Brook,England
-56,Harpreet Brar,India
-57,Yash Dhull,India
-58,Piyush Chawla,India
-59,Quinton de Kock,South Africa
-60,Dwaine Pretorius,South Africa
-61,Vivrant Sharma,India
-62,David Wiese,Namibia
-63,Phil Salt,England
-64,Bhanuka Rajapaksa,Sri Lanka
-65,Narayan Jagadeesan,India
-66,Sanju Samson,India
-67,Atharva Taide,India
-68,Mitchell Santner,New Zealand
-69,Vijay Shankar,India
-70,Umran Malik,India
-71,T Natarajan,India
+0,Ravi Bishnoi,India
+1,Maheesh Theekshana,Sri Lanka
+2,Arshdeep Singh,India
+3,Kagiso Rabada,South Africa
+4,Vijay Shankar,India
+5,Moeen Ali,England
+6,Adam Zampa,Australia
+7,Ajinkya Rahane,India
+8,Mohammed Siraj,India
+9,Mandeep Singh,India
+10,Venkatesh Iyer,India
+11,Abdul Samad,India
+12,Mukesh Kumar,India
+13,Phil Salt,England
+14,Duan Jansen,South Africa
+15,Mohsin Khan,India
+16,Deepak Hooda,India
+17,Sanju Samson,India
+18,Tushar Deshpande,India
+19,Tristan Stubbs,South Africa
+20,Ishan Kishan,India
+21,Virat Kohli,India
+22,Mohit Rathee,India
+23,Reece Topley,England
+24,David Warner,Australia
+25,Ambati Rayudu,India
+26,Deepak Chahar,India
+27,Suryakumar Yadav,India
+28,Rahul Chahar,India
+29,Prabhsimran Singh,India
+30,Akash Madhwal,India
+31,Nathan Ellis,Australia
+32,Jaydev Unadkat,India
+33,Amit Mishra,India
+34,Josh Little,Ireland
+35,Riyan Parag,India
+36,Krishnappa Gowtham,India
+37,Arshad Khan,India
+38,Shikhar Dhawan,India
+39,Washington Sundar,India
+40,Mohammed Shami,India
+41,Mitchell Marsh,Australia
+42,Shivam Dube,India
+43,Sarfaraz Khan,India
+44,Matthew Short,Australia
+45,Chetan Sakariya,India
+46,Abhishek Sharma,India
+47,Prithvi Shaw,India
+48,Narayan Jagadeesan,India
+49,Khaleel Ahmed,India
+50,Yashasvi Jaiswal,India
+51,Lockie Ferguson,New Zealand
+52,Aiden Markram,South Africa
+53,Wanindu Hasaranga,Sri Lanka
+54,Adil Rashid,England
+55,Kedar Jadhav,India
+56,Ayush Badoni,India
+57,Wayne Parnell,South Africa
+58,Karn Sharma,India
+59,Rashid Khan,Afghanistan
+60,Umran Malik,India
+61,Michael Bracewell,New Zealand
+62,Tim Southee,New Zealand
+63,Naveen-ul-Haq,Afghanistan
+64,Dhruv Jurel,India
+65,Marcus Stoinis,Australia
+66,Harry Brook,England
+67,Chris Jordan,England
+68,Ishant Sharma,India
+69,Hrithik Shokeen,India
+70,Ravindra Jadeja,India
+71,Rahmanullah Gurbaz,Afghanistan
 72,Rilee Rossouw,South Africa
-73,Wanindu Hasaranga,Sri Lanka
-74,Andre Russell,West Indies
-75,Abdul Samad,India
-76,Yash Thakur,India
-77,Suyash Sharma,India
-78,Shahbaz Ahmed,India
-79,Mayank Markande,India
-80,Harpreet Singh,India
-81,Shardul Thakur,India
-82,Nicholas Pooran,West Indies
-83,Abhishek Sharma,India
-84,Rashid Khan,Afghanistan
-85,Manan Vohra,India
-86,Jofra Archer,England
-87,Kartik Tyagi,India
-88,Ajinkya Rahane,India
-89,Rinku Singh,India
-90,Adil Rashid,England
-91,Virat Kohli,India
-92,Matthew Short,Australia
-93,Mandeep Singh,India
-94,Suryakumar Yadav,India
-95,Akash Madhwal,India
-96,Jason Holder,West Indies
-97,Amit Mishra,India
-98,Kuldeep Yadav,India
-99,Rohit Sharma,India
-100,Sai Sudharsan,India
-101,Glenn Maxwell,Australia
-102,Vijaykumar Vyshak,India
-103,Ravi Bishnoi,India
-104,Jitesh Sharma,India
-105,Karan Sharma,India
-106,Rahul Tripathi,India
-107,Harshit Rana,India
-108,Umesh Yadav,India
-109,Kedar Jadhav,India
-110,Mohit Sharma,India
-111,Yash Dayal,India
-112,Yuzvendra Chahal,India
-113,Yudhvir Singh,India
-114,KM Asif,India
-115,Arjun Tendulkar,India
-116,Ishant Sharma,India
-117,Sandeep Sharma,India
-118,Praveen Dubey,India
-119,Jason Behrendorff,Australia
-120,Abishek Porel,India
-121,Ayush Badoni,India
-122,Hardik Pandya,India
-123,Aman Hakim Khan,India
-124,Michael Bracewell,New Zealand
-125,Marcus Stoinis,Australia
-126,Devdutt Padikkal,India
-127,Maheesh Theekshana,Sri Lanka
-128,Chetan Sakariya,India
-129,Kulwant Khejroliya,India
-130,Tim Southee,New Zealand
-131,Cameron Green,Australia
-132,Liam Livingstone,England
-133,Mitchell Marsh,Australia
-134,Akeal Hosein,West Indies
-135,Vishnu Vinod,India
-136,Chris Jordan,England
-137,Axar Patel,India
-138,Shubman Gill,India
-139,Sunil Narine,West Indies
-140,Tim David,Australia
-141,Anrich Nortje,South Africa
-142,MS Dhoni,India
-143,Mahipal Lomror,India
-144,Akash Deep,India
-145,Jaydev Unadkat,India
-146,Khaleel Ahmed,India
-147,Marco Jansen,South Africa
-148,Prerak Mankad,India
-149,David Miller,South Africa
-150,Vaibhav Arora,India
-151,Kyle Mayers,West Indies
-152,Yashasvi Jaiswal,India
-153,Mark Wood,England
-154,Mukesh Kumar,India
-155,Deepak Chahar,India
-156,Bhuvneshwar Kumar,India
-157,Ruturaj Gaikwad,India
-158,Adam Zampa,Australia
-159,Rishi Dhawan,India
-160,Shikhar Dhawan,India
-161,Mohammed Shami,India
-162,Kumar Kartikeya,India
-163,Dasun Shanaka,Sri Lanka
-164,Ravindra Jadeja,India
-165,Darshan Nalkande,India
-166,Tristan Stubbs,South Africa
-167,Josh Hazlewood,Australia
-168,Avesh Khan,India
-169,Deepak Hooda,India
-170,Naveen-ul-Haq,Afghanistan
-171,Tushar Deshpande,India
-172,Gurnoor Brar,India
-173,Mustafizur Rahman,Bangladesh
-174,Josh Little,Ireland
-175,Rahul Tewatia,India
-176,Ravichandran Ashwin,India
-177,Mohammed Siraj,India
-178,Moeen Ali,England
-179,Wriddhiman Saha,India
-180,Dinesh Karthik,India
-181,Manish Pandey,India
-182,Sarfaraz Khan,India
-183,Dhruv Jurel,India
-184,Fazalhaq Farooqi,Afghanistan
-185,Navdeep Saini,India
-186,Sanvir Singh,India
-187,Swapnil Singh,India
-188,Nathan Ellis,Australia
-189,Tilak Varma,India
-190,Rovman Powell,West Indies
-191,Reece Topley,England
-192,Prabhsimran Singh,India
-193,Krishnappa Gowtham,India
-194,Rahul Chahar,India
-195,Rahmanullah Gurbaz,Afghanistan
+73,Glenn Maxwell,Australia
+74,Aman Hakim Khan,India
+75,Mark Wood,England
+76,Shubman Gill,India
+77,Manan Vohra,India
+78,Umesh Yadav,India
+79,Arjun Tendulkar,India
+80,Piyush Chawla,India
+81,Alzarri Joseph,West Indies
+82,Bhuvneshwar Kumar,India
+83,Nicholas Pooran,West Indies
+84,Rahul Tripathi,India
+85,Jofra Archer,England
+86,Ben Stokes,England
+87,Fazalhaq Farooqi,Afghanistan
+88,Kumar Kartikeya,India
+89,T Natarajan,India
+90,Abishek Porel,India
+91,Akeal Hosein,West Indies
+92,Yash Dayal,India
+93,Yash Thakur,India
+94,Mayank Agarwal,India
+95,Vivrant Sharma,India
+96,Shimron Hetmyer,West Indies
+97,Harpreet Brar,India
+98,Varun Chakravarthy,India
+99,Jos Buttler,England
+100,David Wiese,Namibia
+101,Tim David,Australia
+102,MS Dhoni,India
+103,Rinku Singh,India
+104,M Shahrukh Khan,India
+105,Akash Singh,India
+106,Andre Russell,West Indies
+107,Glenn Phillips,New Zealand
+108,Vishnu Vinod,India
+109,Rishi Dhawan,India
+110,Shahbaz Ahmed,India
+111,Suyash Sharma,India
+112,Harshal Patel,India
+113,Mohit Sharma,India
+114,Nitish Rana,India
+115,Yuzvendra Chahal,India
+116,Sandeep Sharma,India
+117,Devdutt Padikkal,India
+118,Prerak Mankad,India
+119,Jason Roy,England
+120,Cameron Green,Australia
+121,Joe Root,England
+122,Kulwant Khejroliya,India
+123,Bhanuka Rajapaksa,Sri Lanka
+124,Sanvir Singh,India
+125,Yash Dhull,India
+126,Rovman Powell,West Indies
+127,Shardul Thakur,India
+128,Faf du Plessis,South Africa
+129,Sisanda Magala,South Africa
+130,Krunal Pandya,India
+131,Darshan Nalkande,India
+132,Kuldeep Yadav,India
+133,Avesh Khan,India
+134,Atharva Taide,India
+135,Kartik Tyagi,India
+136,Quinton de Kock,South Africa
+137,Litton Das,Bangladesh
+138,Mahipal Lomror,India
+139,Suyash Prabhudessai,India
+140,Dasun Shanaka,Sri Lanka
+141,Mitchell Santner,New Zealand
+142,Dwaine Pretorius,South Africa
+143,Devon Conway,New Zealand
+144,Heinrich Klaasen,South Africa
+145,Yudhvir Singh,India
+146,Anrich Nortje,South Africa
+147,Wriddhiman Saha,India
+148,Hardik Pandya,India
+149,Praveen Dubey,India
+150,David Miller,South Africa
+151,Mustafizur Rahman,Bangladesh
+152,KM Asif,India
+153,Rohit Sharma,India
+154,Jason Holder,West Indies
+155,Swapnil Singh,India
+156,Riley Meredith,Australia
+157,Anukul Roy,India
+158,Gurnoor Brar,India
+159,KL Rahul,India
+160,Ravichandran Ashwin,India
+161,Anmolpreet Singh,India
+162,Trent Boult,New Zealand
+163,Sunil Narine,West Indies
+164,Abhinav Manohar,India
+165,Akash Deep,India
+166,Priyam Garg,India
+167,Nehal Wadhera,India
+168,Liam Livingstone,England
+169,Ripal Patel,India
+170,Jason Behrendorff,Australia
+171,Harshit Rana,India
+172,Rahul Tewatia,India
+173,Kyle Mayers,West Indies
+174,Lalit Yadav,India
+175,Tilak Varma,India
+176,Navdeep Saini,India
+177,Josh Hazlewood,Australia
+178,Anuj Rawat,India
+179,Vaibhav Arora,India
+180,Vijaykumar Vyshak,India
+181,Matheesha Pathirana,Sri Lanka
+182,Dinesh Karthik,India
+183,Ruturaj Gaikwad,India
+184,Marco Jansen,South Africa
+185,Manish Pandey,India
+186,Sam Curran,England
+187,Sikandar Raza,Zimbabwe
+188,Jitesh Sharma,India
+189,Noor Ahmad,Afghanistan
+190,Karan Sharma,India
+191,Mayank Markande,India
+192,Axar Patel,India
+193,David Willey,England
+194,Sai Sudharsan,India
+195,Harpreet Singh,India
